@@ -45,7 +45,7 @@ v0.8.0 was hand typed by me, copying the working of v0.7 while adding my own wor
 
 Now, months later, I have v0.8.3 completed and I can't shake the ideas. I think they are too good to be contained just in a story. The Act could not have been written without AI, but neither could AI have done this on its own. It is a strange intertwined collaboration.
 
-That said the Act is still woefully underdeveloped. I've just reached the limit of my capabilities, even with AI help, and now I am asking for your help.
+That said the Act is still woefully underdeveloped. I've just reached the limit of my capabilities, even with AI, and now I am asking for your help.
 
 
 ## How to Read This Act
