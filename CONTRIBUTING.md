@@ -29,7 +29,6 @@ Navigate to the file you want to change inside the `21st_Century_Act/` folder.
 **2. Click the Edit Icon**
 At the top right of the file's content, click the small **pencil icon ✏️**.
 
-
 **3. Make Your Edits**
 An in-browser text editor will open. Make your changes directly to the text.
 **4. Describe Your Suggestion**
