@@ -1,5 +1,4 @@
 
-
 # License
 
 **Copyright © 2025 Riley Dean Sampson and the New Century Party contributors.**
@@ -17,9 +16,9 @@ Licensed under **Creative Commons Attribution–ShareAlike 4.0 International (CC
 - **No additional restrictions.**
 
 **Attribution suggestion:**
-> “*21st Century Act* (v0.8.3), by Riley Dean Sampson and contributors — https://github.com/NewCenturyParty/21st_Century_Act — licensed CC BY-SA 4.0.”
+> “*21st Century Act* (v0.8.3), by Riley Dean Sampson and contributors — <https://github.com/NewCenturyParty/21st_Century_Act> — licensed CC BY-SA 4.0.”
 
-**Full legal code:** https://creativecommons.org/licenses/by-sa/4.0/
+**Full legal code:** <https://creativecommons.org/licenses/by-sa/4.0/>
 
 Unless otherwise noted in a file header, all **textual content** in this repository is covered by CC BY-SA 4.0.
 
