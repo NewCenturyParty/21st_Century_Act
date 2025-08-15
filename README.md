@@ -1,7 +1,7 @@
 # The 21st Century Act: A Legislative Blueprint for Canadian National Renewal
 
 <p align="center">
-  <img src="./images/21CALogo.svg" width="200"/>
+  <img src="./images/21CALogo-outline.svg" width="200"/>
 </p>
 
 <p align="center">
