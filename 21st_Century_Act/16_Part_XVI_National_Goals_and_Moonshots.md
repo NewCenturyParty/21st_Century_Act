@@ -20,17 +20,17 @@ Nothing is outside humanities reach, on Earth or otherwise.
 
 (1) No project established or authorized under this Part may proceed to significant public expenditure, land acquisition, or construction, without first meeting the following prerequisites, to be overseen by both the Foundation Commission, and the Office for the Future:
 
-(2) Rigorous, independent, and publicly accessible feasibility studies, assessing the technological, financial, social, cultural, and environmental viability of the project, including the detailed lifecycle cost-benefit analyses, with the consideration of the harms of not doing the project as well;
+    (a) Rigorous, independent, and publicly accessible feasibility studies, assessing the technological, financial, social, cultural, and environmental viability of the project, including the detailed lifecycle cost-benefit analyses, with the consideration of the harms of not doing the project as well;
 
-(2) Detailed risk assessments identifying potential adverse impacts of doing such projects, or not doing such projects, including to Human Dignity, Indigenous rights, and ecological integrity, and a comprehensive mitigation strategy covering the full lifecycle of the project, made publicly available;
+    (b) Detailed risk assessments identifying potential adverse impacts of doing such projects, or not doing such projects, including to Human Dignity, Indigenous rights, and ecological integrity, and a comprehensive mitigation strategy covering the full lifecycle of the project, made publicly available;
 
-(3) A transparent and robust process of engagement involving the public and all levels of government, including Indigenous governing bodies;
+    (c) A transparent and robust process of engagement involving the public and all levels of government, including Indigenous governing bodies;
 
-(4) For any aspect of a project that may impact Indigenous or Treaty rights, Indigenous lands, or traditional territories, there must be the obtainment of free, prior, informed consent, with the project only proceeding through comprehensive partnership and co-development with the affected Indigenous peoples or nations, consistent with the principles of this Act;
+    (d) For any aspect of a project that may impact Indigenous or Treaty rights, Indigenous lands, or traditional territories, there must be the obtainment of free, prior, informed consent, with the project only proceeding through comprehensive partnership and co-development with the affected Indigenous peoples or nations, consistent with the principles of this Act;
 
-(5) The establishment of a dedicated and independent oversight mechanism for the projects planning, implementation, and operation, accountable to Parliament and the public, ensuring adherence to the projects mandate, budget, timelines, and principles of this Act; and
+    (e) The establishment of a dedicated and independent oversight mechanism for the projects planning, implementation, and operation, accountable to Parliament and the public, ensuring adherence to the projects mandate, budget, timelines, and principles of this Act; and
 
-(6) A clear demonstration that the project is consistent with the targets, timelines, and ecological protection measures established in Part XIII of this Act.
+    (f) A clear demonstration that the project is consistent with the targets, timelines, and ecological protection measures established in Part XIII of this Act.
 
 ## Title III: The TransCanada Maglev Network
 
@@ -46,17 +46,17 @@ Nothing is outside humanities reach, on Earth or otherwise.
 
 (1) The primary objectives of the Maglev Network include, but are not limited to, the following:
 
-(2) Achieving a significant reduction in cross-country, and inter-city travel times for passengers, making Canada as a whole more accessible and interconnected;
+    (a) Achieving a significant reduction in cross-country, and inter-city travel times for passengers, making Canada as a whole more accessible and interconnected;
 
-(2) Establishing an Ultra-High-Speed, reliable, and efficient corridor for the transport of essential, time-sensitive, and high-value goods, bolstering national supply chain resilience;
+    (b) Establishing an Ultra-High-Speed, reliable, and efficient corridor for the transport of essential, time-sensitive, and high-value goods, bolstering national supply chain resilience;
 
-(3) Catalyzing sustainable economic development, fostering regional innovation clusters, support advanced Canadian manufacturing, and create a wide range of skilled employment opportunities in such areas as manufacturing and advanced manufacturing, construction, operations, and maintenance, along its primary corridors and at station locations;
+    (c) Catalyzing sustainable economic development, fostering regional innovation clusters, support advanced Canadian manufacturing, and create a wide range of skilled employment opportunities in such areas as manufacturing and advanced manufacturing, construction, operations, and maintenance, along its primary corridors and at station locations;
 
-(4) Substantially contribute to Canada’s decarbonization goals by providing a high capacity, low-emission alternative to air and road transport, powered by renewable and clean energy sources;
+    (d) Substantially contribute to Canada’s decarbonization goals by providing a high capacity, low-emission alternative to air and road transport, powered by renewable and clean energy sources;
 
-(5) Enhancing national unity, social cohesion, and equitable access to opportunities by connecting all major urban centres and regions including remote and northern communities in later phases of development; and
+    (e) Enhancing national unity, social cohesion, and equitable access to opportunities by connecting all major urban centres and regions including remote and northern communities in later phases of development; and
 
-(6) Strengthening Canada’s technological sovereignty and advanced manufacturing capabilities through the development, domestic production, and deployment of cutting-edge maglev technologies and related advanced technologies.
+    (f) Strengthening Canada’s technological sovereignty and advanced manufacturing capabilities through the development, domestic production, and deployment of cutting-edge maglev technologies and related advanced technologies.
 
 ### Section 388: Core Features and Technological Standards
 
@@ -64,21 +64,21 @@ Nothing is outside humanities reach, on Earth or otherwise.
 
 (2) The Maglev Network shall be designed to accommodate both:
 
-(3) Dedicated passenger services, offering frequent and rapid transit between major centres; and
+    (a) Dedicated passenger services, offering frequent and rapid transit between major centres; and
 
-(2) Ultra-high-speed freight services.
+    (b) Ultra-high-speed freight services.
 
 (3) Feasibility studies shall detail the optimal approach for freight integration, considering options such as:
 
-(4) Specialized rolling stock on shared tracks during off-peak passenger hours; and
+    (a) Specialized rolling stock on shared tracks during off-peak passenger hours; and
 
-(2) The development of specific secondary maglev freight tracks, with the understanding that while there would be much greater costs, the benefits may outweigh them.
+    (b) The development of specific secondary maglev freight tracks, with the understanding that while there would be much greater costs, the benefits may outweigh them.
 
-(3) The Maglev Network will aim for maximum operational speeds enabling coast to coast-to-coast passenger travel in significantly reduced timeframes, with a suggested target operational speed of at least 600 km/h, with scalability capacity in mind when designed to meet maximum projected long-term demands.
+(4) The Maglev Network will aim for maximum operational speeds enabling coast to coast-to-coast passenger travel in significantly reduced timeframes, with a suggested target operational speed of at least 600 km/h, with scalability capacity in mind when designed to meet maximum projected long-term demands.
 
-(4) The Maglev Network will be developed with the ultimate vision of connecting all major Canadian urban centres and regions from the Atlantic, to the Pacific, to the Arctic, ensuring comprehensive national coverage through a phased approach.
+(5) The Maglev Network will be developed with the ultimate vision of connecting all major Canadian urban centres and regions from the Atlantic, to the Pacific, to the Arctic, ensuring comprehensive national coverage through a phased approach.
 
-(5) Stations on the Maglev Network will be designed as multi-model, accessible, transportation hubs integrated with local and regional public transit, active transportation networks, and sustainable urban development. Station planning prioritizes co-location with, or seamless connection with, 21st Century Neighbourhoods and Dignity Hubs where feasible.
+(6) Stations on the Maglev Network will be designed as multi-model, accessible, transportation hubs integrated with local and regional public transit, active transportation networks, and sustainable urban development. Station planning prioritizes co-location with, or seamless connection with, 21st Century Neighbourhoods and Dignity Hubs where feasible.
 
 ### Section 389: Governance
 
@@ -100,17 +100,17 @@ Nothing is outside humanities reach, on Earth or otherwise.
 
 (1) The CSA, in fulfilling its mandate, shall enact the following core programs:
 
-(2) The Sovereign Satellite Constellation program, which shall construct, operate, and manage a new satellite constellation across Canada with the capabilities to monitor climate changes, and provide high speed internet across the Country, even in the most remote of locations;
+    (a) The Sovereign Satellite Constellation program, which shall construct, operate, and manage a new satellite constellation across Canada with the capabilities to monitor climate changes, and provide high speed internet across the Country, even in the most remote of locations;
 
-(2) The Climate Monitoring program, which shall use the new satellite constellation, as detailed herein, to monitor climate changes such as Arctic ice melt rates, forest fire progressions and tracking, forest regrowth efforts, and more climate related monitoring;
+    (b) The Climate Monitoring program, which shall use the new satellite constellation, as detailed herein, to monitor climate changes such as Arctic ice melt rates, forest fire progressions and tracking, forest regrowth efforts, and more climate related monitoring;
 
-(3) The Our Place in Space program, which shall collaborate with Indigenous knowledge keepers to explore sky knowledge systems in parallel with modern astronomy, supporting the education of all Canadians, particularly youths, on what the possibilities of space, what we know, what we don’t know, and where we find ourselves;
+    (c) The Our Place in Space program, which shall collaborate with Indigenous knowledge keepers to explore sky knowledge systems in parallel with modern astronomy, supporting the education of all Canadians, particularly youths, on what the possibilities of space, what we know, what we don’t know, and where we find ourselves;
 
-(4) The Indigenous Space Sovereignty program, which shall help develop Indigenous-led space related initiatives and satellite monitoring of traditional territories;
+    (d) The Indigenous Space Sovereignty program, which shall help develop Indigenous-led space related initiatives and satellite monitoring of traditional territories;
 
-(5) The Public Data program which shall share all data collected by the Sovereign Satellite Constellation with the Public Data Trust run by Statistics Canada, ensuring publicly gathered data is used for the public good. This program shall also include the publishing of any and all contracts and data agreements entered into by the CSA on git.canada.ca, and canada.ca; and
+    (e) The Public Data program which shall share all data collected by the Sovereign Satellite Constellation with the Public Data Trust run by Statistics Canada, ensuring publicly gathered data is used for the public good. This program shall also include the publishing of any and all contracts and data agreements entered into by the CSA on git.canada.ca, and canada.ca; and
 
-(6) The Space Manufacturing program, which shall support the development of space technology related component manufacturing, built in Canadian co-operatives by Canadian worker-owners, including the Canadian Century Corps’ Air and Space Cadets, in partnership with Canadian aerospace sector and the advanced manufacturing sectors.
+    (f) The Space Manufacturing program, which shall support the development of space technology related component manufacturing, built in Canadian co-operatives by Canadian worker-owners, including the Canadian Century Corps’ Air and Space Cadets, in partnership with Canadian aerospace sector and the advanced manufacturing sectors.
 
 ### Section 392: Governance
 
@@ -150,17 +150,17 @@ Nothing is outside humanities reach, on Earth or otherwise.
 
 (7) The launch capabilities and capacity shall be led by the Canadian Space Agency in partnership and close collaboration with such agencies as, but not limited to, the following:
 
-(8) The Office for the Future for long-term strategic alignment and intergenerational equity considerations;
+    (a) The Office for the Future for long-term strategic alignment and intergenerational equity considerations;
 
-(2) The Canadian Century Corps for infrastructure development, technical support, and providing skills development and career pathways into the space sector for Cadets;
+    (b) The Canadian Century Corps for infrastructure development, technical support, and providing skills development and career pathways into the space sector for Cadets;
 
-(3) The National AI Governance Council, for ethical oversight of any AI systems used in any operations such as launch capabilities, trajectory calculations, and autonomous mission control systems;
+    (c) The National AI Governance Council, for ethical oversight of any AI systems used in any operations such as launch capabilities, trajectory calculations, and autonomous mission control systems;
 
-(4) The National Reconciliation Council, to ensure all space activities and data generation that monitor or affect in any way the traditional territories or Indigenous sovereignty respects the reconciliation efforts of this Act; and
+    (d) The National Reconciliation Council, to ensure all space activities and data generation that monitor or affect in any way the traditional territories or Indigenous sovereignty respects the reconciliation efforts of this Act; and
 
-(5) Relevant Canadian industries, research institutions, and academics to foster a robust domestic space ecosystem within Canada.
+    (e) Relevant Canadian industries, research institutions, and academics to foster a robust domestic space ecosystem within Canada.
 
-(6) The vision feed of each satellite shall be publicly streamed on a website created by the CSA, ensuring that the lens is publicly accountable, and not used for undue purposes.
+(8) The vision feed of each satellite shall be publicly streamed on a website created by the CSA, ensuring that the lens is publicly accountable, and not used for undue purposes.
 
 ### Section 396: The Sovereign Satellite Constellation
 
@@ -168,31 +168,30 @@ Nothing is outside humanities reach, on Earth or otherwise.
 
 (2) This satellite constellation will provide robust, secure, and resilient space-based capabilities, which shall include, but not be limited to, the following:
 
-(3) Universal Telecommunications access, which shall enable:
+    (a) Universal Telecommunications access, which shall enable:
 
-    (a) Remote Healthcare.
+        (i) Remote Healthcare.
 
-    (b) Remote Education.
+        (ii) Remote Education.
 
-(2) Advanced real-time Earth observation for Arctic sovereignty and climate observation;
+    (b) Advanced real-time Earth observation for Arctic sovereignty and climate observation;
 
-(3) Environmental stewardship;
+    (c) Environmental stewardship;
 
-(4) Resource management and tracking;
+    (d) Resource management and tracking;
 
-(5) Supporting precise, renewable agriculture and agriculture monitoring; and
+    (e) Supporting precise, renewable agriculture and agriculture monitoring; and
 
-(6) Contribute to national security through a public lens.
+    (f) Contribute to national security through a public lens.
 
-(7) The Sovereign Satellite Constellation program will prioritize the development of a multi-layered constellation addressing diverse national needs, including but not limited to:
+(3) The Sovereign Satellite Constellation program will prioritize the development of a multi-layered constellation addressing diverse national needs, including but not limited to:
 
-(8) Augmenting the efforts of CenTel to ensure reliable high-speed connectivity in remote, rural, and Indigenous communities;
+    (a) Augmenting the efforts of CenTel to ensure reliable high-speed connectivity in remote, rural, and Indigenous communities;
 
-(2) Providing continuous, ultra-high-resolution data for the Arctic Resilience Agency and the Canadian Environmental Economics Agency, and the wider community of climate scientists; and
+    (b) Providing continuous, ultra-high-resolution data for the Arctic Resilience Agency and the Canadian Environmental Economics Agency, and the wider community of climate scientists; and
 
-(3) Supporting sustainable resource development, agricultural development and soil health, environmental compliance, and asserting Canadian sovereignty.
+    (c) Supporting sustainable resource development, agricultural development and soil health, environmental compliance, and asserting Canadian sovereignty.
 
 (4) Ground Control, data processing, research and development facilities, and component manufacturing for this program will be strategically located and developed in Canada, with Saskatchewan considered a key hub for these activities, such as Ground Control, fostering regional economic development and specialized expertise.
 
 (5) This program will incorporate specific risk management frameworks addressing cybersecurity of space and ground assets, data integrity, and space debris mitigation, and commits to the principles of sustainable and responsible use of the space domain.
-
