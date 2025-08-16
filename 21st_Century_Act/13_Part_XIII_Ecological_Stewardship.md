@@ -489,4 +489,3 @@ This offence is deemed to be committed in Canada if there is a real and substant
     (c) Prescribing evidentiary rules and defences consistent with this Title.
 
 (2) For greater certainty, a regulation under this section does not create an offence or increase a maximum beyond that set out in this Title.
-
