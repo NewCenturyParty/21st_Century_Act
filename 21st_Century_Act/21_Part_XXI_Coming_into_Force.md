@@ -28,41 +28,41 @@
 
 ### Section 458: The Implementation Relay
 
-(1) The Governor in Council, on binding the recommendation of the Foundation Commission, shall issue the orders referred to in section 456, in accordance with a Relay. This Relay shall be structured in a series of distinct ‘legs,’ or Sprints, each focusing on a specific cluster of the Act’s Parts and objectives, where one Sprint is ‘active’ and the current year’s work, while the other Sprints do background prep work, getting ready for their own active Sprint.
+(1) The Governor in Council, on the binding recommendation of the Foundation Commission, shall issue the orders referred to in section 456, in accordance with a Relay. This Relay shall be structured in a series of distinct ‘legs,’ or Sprints, each focusing on a specific cluster of the Act’s Parts and objectives, where one Sprint is ‘active’ and the current year’s work, while the other Sprints do background prep work, getting ready for their own active Sprint.
 
 (2) The initial four-year Implementation Relay shall, at a minimum, consist of the following Sprints:
 
-(3) Relay 1 Sprint 1 \- Foundational Infrastructure (Year 1): Focusing on the full operational establishment of institutions such as:
+    (a) Relay 1 Sprint 1 - Foundational Infrastructure (Year 1): Focusing on the full operational establishment of institutions such as:
 
-    (a) the Foundation Commission;
+        (i) the Foundation Commission;
 
-    (b) The Dignity Directorate;
+        (ii) The Dignity Directorate;
 
-    (c) Century Bank;
+        (iii) Century Bank;
 
-    (d) The Canadian Century Corps, particularly its Administration and Logistics Corps;
+        (iv) The Canadian Century Corps, particularly its Administration and Logistics Corps;
 
-    (e) National Council for Reconciliation; and
+        (v) National Council for Reconciliation; and
 
-    (f) The renewed mandate and operations of the Canada Revenue Agency.
+        (vi) The renewed mandate and operations of the Canada Revenue Agency.
 
-(2) Relay 1 Sprint 2 \- Economic Democracy (Year 2): Focusing on the principles of Economic Democracy, as detailed in this Act, operationalizing the following:
+    (b) Relay 1 Sprint 2 - Economic Democracy (Year 2): Focusing on the principles of Economic Democracy, as detailed in this Act, operationalizing the following:
 
-    (a) The Dignity Dividend and the Child Dignity Dividend; and
+        (i) The Dignity Dividend and the Child Dignity Dividend; and
 
-    (b) The Fair Taxation measures outlined in Part X of this Act.
+        (ii) The Fair Taxation measures outlined in Part X of this Act.
 
-(3) Relay 1 Sprint 3 \- The Human Capital Engine (Year 3): Focusing on the full implementation of Part VIII of this Act, including the full recruitment, training, and deployment of the Canadian Century Corps across all foundational streams, building on the preparatory work of the Administration and Logistics Corps from Sprint 1; and
+    (c) Relay 1 Sprint 3 - The Human Capital Engine (Year 3): Focusing on the full implementation of Part VIII of this Act, including the full recruitment, training, and deployment of the Canadian Century Corps across all foundational streams, building on the preparatory work of the Administration and Logistics Corps from Sprint 1; and
 
-(4) Relay 1 Sprint 4 \- Digital Sovereignty (Year 4): Focusing on the full implementation of Part XI of this Act, including the launch of CenTel, the Canadian Digital Civic Tech Stack that includes the @canadapost.ca email service, Guardian, Aurora, the DSIN, and git.canada.ca.
+    (d) Relay 1 Sprint 4 - Digital Sovereignty (Year 4): Focusing on the full implementation of Part XI of this Act, including the launch of CenTel, the Canadian Digital Civic Tech Stack that includes the @canadapost.ca email service, Guardian, Aurora, the DSIN, and git.canada.ca.
 
-(5) Prior to the commencement of each Sprint, the Foundation Commission shall prepare a detailed operational plan and budget. This budget shall be submitted to the Treasury Board for approval and subsequent appropriation of funds from the National Renewal Fund or the Consolidated Revenue Fund. The Foundation Commission shall publicly report on the approved budget and expenditures for each Sprint in accordance with its mandate to ensure public transparency.
+(3) Prior to the commencement of each Sprint, the Foundation Commission shall prepare a detailed operational plan and budget. This budget shall be submitted to the Treasury Board for approval and subsequent appropriation of funds from the National Renewal Fund or the Consolidated Revenue Fund. The Foundation Commission shall publicly report on the approved budget and expenditures for each Sprint in accordance with its mandate to ensure public transparency.
 
 ### Section 459: Review and Adaptation
 
 (1) The Foundation Commission shall, at the conclusion of each Sprint or ‘leg’ of the Relay, conduct a comprehensive review and submit a report to Parliament and the public, on the overall implementation of that Sprint, which may include recommendations for adjusting the sequence or timing of subsequent legs to ensure the effective and dignified implementation of this Act.
 
-(2) In the event that a Sprint is projected to significantly fail to meet its core objectives, timelines, or budgetary constraints, the Foundation Commission, pursuant to its oversight mandate under Part VII of this Act, shall have the authority to require the responsible Sprint Team to submit a corrective action plan. The Foundation Commission may issue binding directives regarding the plan’s implementation to ensure the integrity and momentum of the relay are maintained.
+(2) In the event that a Sprint is projected to significantly fail to meet its core objectives, timelines, or budgetary constraints, the Foundation Commission, pursuant to its oversight mandate under Part VII of this Act, shall have the authority to require the responsible Sprint Team to submit a corrective action plan. The Foundation Commission may issue binding directives regarding the plan’s implementation to ensure the integrity and momentum of the Relay are maintained.
 
 ### Section 460: Co-operative Implementation
 
@@ -72,7 +72,7 @@
 
 (3) Regulations may prescribe national minimum standards, such as service levels, eligibility floors, timelines, portability, and data safeguards. Parties may exceed but not fall below these minimums.
 
-(4) Where a jurisdiction demonstrates substantive equivalency to the national minimums through its own laws or programs, the Minister must recognize equivalency and exempt that jurisdiction from duplicative federal requirements for a period of renewable equivalency, subject to period review.
+(4) Where a jurisdiction demonstrates substantive equivalency to the national minimums through its own laws or programs, the Minister must recognize equivalency and exempt that jurisdiction from duplicative federal requirements for a period of renewable equivalency, subject to periodic review.
 
 (5) Payments may be made under this Act using time-limited agreements, statutory transfers, or results-based contributions tied to the national minimums.
 
@@ -85,4 +85,3 @@
 (9) All agreements, equivalency decisions, and compliance reports must be published within 30 days, subject to privacy and Cabinet confidences.
 
 (10) Nothing in this section abrogates or derogates from Indigenous, Aboriginal, or treaty rights; where self-government agreements assign program fields, the Crown shall negotiate directly with the Indigenous government on a nation-to-nation basis.
-
