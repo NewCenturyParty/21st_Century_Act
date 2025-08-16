@@ -163,4 +163,3 @@ To know our future is to know our chains. To break our chains is to make our fut
 (1) The financial statements of the Renewal Commission shall be audited annually by the Auditor General of Canada.
 
 (2) The Renewal Commission shall receive its funding for its operations through parliamentary appropriations.
-
