@@ -807,4 +807,3 @@ We shall not cede cyberspace.
 (3) Data held by the Public Data Trust shall not be used for law-enforcement or immigration-enforcement purposes in any way, except pursuant to a warrant or order of a court of competent jurisdiction.
 
 (4) A contravention of this section is a violation for the purposes of Title V of Part XVII of this Act and may also constitute an offence prescribed by regulation.
-
