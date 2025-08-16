@@ -20,23 +20,23 @@ Power shared is power secured.
 
 (3) The transition shall include, at minimum, the following components:
 
-(4) The convening of a Citizens’ Assembly, facilitated by the National Council for Reconciliation in every province and territory, composed of:
+    (a) The convening of a Citizens’ Assembly, facilitated by the National Council for Reconciliation in every province and territory, composed of:
 
-    (a) Citizens selected via Civic lottery, as defined under section 3 of this act; and
+        (i) Citizens selected via Civic lottery, as defined under section 3 of this Act; and
 
-    (b) Indigenous representatives selected by the Assembly of First Nations, Inuit Tapiriit Kanatami, and the Métis National Council.
+        (ii) Indigenous representatives selected by the Assembly of First Nations, Inuit Tapiriit Kanatami, and the Métis National Council.
 
-(2) A comprehensive public learning and deliberation process to educate Citizens’ Assemblies, and all citizens on:
+    (b) A comprehensive public learning and deliberation process to educate Citizens’ Assemblies, and all citizens on:
 
-    (a) The meaning and purpose of the transition to a domestic, ceremonial, Head of State.
+        (i) The meaning and purpose of the transition to a domestic, ceremonial, Head of State.
 
-    (b) The proposed models outlined under this Part of this Act; and
+        (ii) The proposed models outlined under this Part of this Act; and
 
-    (c) The principles of continuity through renewal, circular democracy, and Indigenous-led constitutional symbolism.
+        (iii) The principles of continuity through renewal, circular democracy, and Indigenous-led constitutional symbolism.
 
-(3) The primary object of the eight-year transition shall be to enable Indigenous and non-Indigenous Canadians to co-develop a new ceremonial institution, rooted in shared sovereignty and democratic humility, to succeed the Crown as the symbolic Head of State.
+(4) The primary object of the eight-year transition shall be to enable Indigenous and non-Indigenous Canadians to co-develop a new ceremonial institution, rooted in shared sovereignty and democratic humility, to succeed the Crown as the symbolic Head of State.
 
-(4) A final vote on constitutional reform shall occur no later than the eighth year of this Act coming into force, subject to Indigenous consultation, provincial and territorial collaboration, and the entrenchment processes detailed in Part XVIII of this Act.
+(5) A final vote on constitutional reform shall occur no later than the eighth year of this Act coming into force, subject to Indigenous consultation, provincial and territorial collaboration, and the entrenchment processes detailed in Part XVIII of this Act.
 
 ## Title II: The Office of the Future Steward
 
@@ -52,25 +52,25 @@ Power shared is power secured.
 
 (2) Potential models for the Future Stewards include, but are not limited to:
 
-(3) A Youth and Elder Council Model, composed of:
+    (a) A Youth and Elder Council Model, composed of:
 
-    (a) Nine youths, aged 16-27 years, selected through transparent civic processes.
+        (i) Nine youths, aged 16-27 years, selected through transparent civic processes.
 
-    (b) Nine elders, aged 60 years and above, selected through transparent civic processes; and
+        (ii) Nine elders, aged 60 years and above, selected through transparent civic processes; and
 
-    (c) Two Treaty Keepers, in rotating positions selected from every treaty nation, ensuring Indigenous leadership and knowledge integration.
+        (iii) Three Treaty Keepers, in rotating positions selected from every treaty nation, ensuring Indigenous leadership and knowledge integration.
 
-(2) A Stewardship Council Model, a small body composed of:
+    (b) A Stewardship Council Model, a small body composed of:
 
-    (a) One or more Elder or Knowledge Keeper.
+        (i) One or more Elder or Knowledge Keeper.
 
-    (b) One or more citizen chosen by civic lottery;
+        (ii) One or more citizen chosen by civic lottery;
 
-    (c) One or more Civic historian(s) or Scholars;
+        (iii) One or more Civic historian(s) or Scholars; and
 
-    (d) One or more Treaty Keeper(s), selected by and from the Treaty Renewal Council established in Part V of this Act.
+        (iv) One or more Treaty Keeper(s), selected by and from the Treaty Renewal Council established in Part V of this Act.
 
-(3) A model similar to the Loop Governance model, detailed in Part II, Title I of this Act.
+    (c) A model similar to the Loop Governance model, detailed in Part II, Title I of this Act.
 
 ### Section 161: Proposed Powers, Duties, and Limitations
 
@@ -78,17 +78,17 @@ Power shared is power secured.
 
 (2) A core proposed ceremonial and constitutional tool for consideration is a ‘Pause and Reflect,’ power as described in section 3 of this Act. This power shall include:
 
-(3) The capacity to delay assent to legislation deemed to fundamentally violate core constitutional principles or the dignity provisions of this Act, triggering the ‘Pause and Reflect’ power, where Parliament ‘Pauses,’ such legislation, which is a mandatory period for parliamentary reconsideration for no less than six months, after which a supermajority of two-thirds of Parliament voting in favour is required to pass the bill again, overriding the delayed assent;
+    (a) The capacity to delay assent to legislation deemed to fundamentally violate core constitutional principles or the dignity provisions of this Act, triggering the ‘Pause and Reflect’ power, where Parliament ‘Pauses,’ such legislation, which is a mandatory period for parliamentary reconsideration for no less than six months, after which a super-majority of two-thirds of Parliament voting in favour is required to pass the bill again, overriding the delayed assent;
 
-(2) When the ‘Pause and Reflect’ power is triggered, during the ‘Pause’ there shall be ‘Reflection’ with the legislation being sent to the Supreme Court of Canada for an advisory opinion on its constitutionality, as well as its effect on Human Dignity in Canada, which must be published within six months, as to be ready for Parliament to review before another vote on such legislation; and
+    (b) When the ‘Pause and Reflect’ power is triggered, during the ‘Pause’ there shall be ‘Reflection’ with the legislation being sent to the Supreme Court of Canada for an advisory opinion on its constitutionality, as well as its effect on Human Dignity in Canada, which must be published within six months, as to be ready for Parliament to review before another vote on such legislation; and
 
-(3) Mechanisms to be co-developed that protect core democratic institutions or processes from egregious executive or legislative overreach, potentially triggering national deliberations or review processes.
+    (c) Mechanisms to be co-developed that protect core democratic institutions or processes from egregious executive or legislative overreach, potentially triggering national deliberations or review processes.
 
-(4) The duties of the Future Stewards shall be primarily symbolic, ceremonial, and custodial in nature, including acting as a symbol of national unity, a guardian of Canada’s national story, and its democratic evolutions. They shall be an embodiment of the values of Human Dignity, democracy, care, and circular governance. It is explicitly envisioned that the Future Stewards shall not govern, initiate policy, or possess independent executive power, and shall not be able to veto duly enacted legislation indefinitely.
+(3) The duties of the Future Stewards shall be primarily symbolic, ceremonial, and custodial in nature, including acting as a symbol of national unity, a guardian of Canada’s national story, and its democratic evolutions. They shall be an embodiment of the values of Human Dignity, democracy, care, and circular governance. It is explicitly envisioned that the Future Stewards shall not govern, initiate policy, or possess independent executive power, and shall not be able to veto duly enacted legislation indefinitely.
 
-(5) The cultural role and democratic legitimacy of the Future Stewards shall include presiding over national civic ceremonies, issuing forms of national recognition, maintaining symbolic public spaces for reflection and civic dialogue, and fostering youth engagement in democracy. The specifics of these roles shall be co-developed in regulation with Indigenous nations.
+(4) The cultural role and democratic legitimacy of the Future Stewards shall include presiding over national civic ceremonies, issuing forms of national recognition, maintaining symbolic public spaces for reflection and civic dialogue, and fostering youth engagement in democracy. The specifics of these roles shall be co-developed in regulation with Indigenous nations.
 
-(6) The precise powers, duties, limitations, and cultural roles of the Future Stewards shall be finalized through consultative co-development and constitutional amendment processes outlined in Part XVIII of this Act, ensuring they reflect broad national consensus and deep partnership with Indigenous Nations.
+(5) The precise powers, duties, limitations, and cultural roles of the Future Stewards shall be finalized through consultative co-development and constitutional amendment processes outlined in Part XVIII of this Act, ensuring they reflect broad national consensus and deep partnership with Indigenous Nations.
 
 ## Title III: Transitional Continuity
 
@@ -112,13 +112,13 @@ Power shared is power secured.
 
 (2) A change of style or name made under this Part, or regulations made under this Part, does not:
 
-(3) Affect the body’s rights, obligations, assets, liabilities, or legal proceedings;
+    (a) Affect the body’s rights, obligations, assets, liabilities, or legal proceedings;
 
-(2) Require the re-execution of any instrument or contract; and
+    (b) Require the re-execution of any instrument or contract; and
 
-(3) Invalidate any act done or to be done in relation to the body.
+    (c) Invalidate any act done or to be done in relation to the body.
 
-(4) All officers and employees continue in office or employment on the same terms until changed in accordance with the law.
+(3) All officers and employees continue in office or employment on the same terms until changed in accordance with the law.
 
 ### Section 165: Property, Contracts, Liabilities, and Proceedings
 
@@ -132,7 +132,7 @@ Power shared is power secured.
 
 (1) Every commission, warrant, appointment, or authorization issued in the name of the Monarch and in force immediately before the coming into force of this Part continues according to its tenor as if issued in the name of Canada.
 
-(2) Every oath or affirmation take to the Monarch before the coming into force of this Part is deemed to be an oath or affirmation to the Constitution of Canada and to the laws duly enacted thereunder.
+(2) Every oath or affirmation taken to the Monarch before the coming into force of this Part is deemed to be an oath or affirmation to the Constitution of Canada and to the laws duly enacted thereunder.
 
 ### Section 167: Seals, Symbols, and Styles
 
@@ -152,15 +152,15 @@ Power shared is power secured.
 
 (1) For the limited purpose of ensuring continuity, the Governor in Council may, on the recommendation of the Minister of Justice, make regulations:
 
-(2) Designating the office or body that performs any formal function previously performed by the Governor General or Monarch;
+    (a) Designating the office or body that performs any formal function previously performed by the Governor General or Monarch;
 
-(2) Prescribing interim styles of cause, titles, seals, and forms; and
+    (b) Prescribing interim styles of cause, titles, seals, and forms; and
 
-(3) Prescribing the new styles or names of Crown corporations and other federal bodies, following co-development with the Future Stewards under this Part.
+    (c) Prescribing the new styles or names of Crown corporations and other federal bodies, following co-development with the Future Stewards under this Part.
 
-(4) A regulation under this section may prescribe a default style of cause for criminal proceedings and civil matters involving the State of Canada.
+(2) A regulation under this section may prescribe a default style of cause for criminal proceedings and civil matters involving the State of Canada.
 
-(5) Regulations made under this section are transitional and cease to have effect on the earlier of (a) their replacement by Act of Parliament, or (b) the date specified in the regulation, which shall be no later than 36 months after this Title comes into force.
+(3) Regulations made under this section are transitional and cease to have effect on the earlier of (a) their replacement by Act of Parliament, or (b) the date specified in the regulation, which shall be no later than 36 months after this Title comes into force.
 
 ### Section 170: Co-Development of Permanent Names and Symbols
 
@@ -177,4 +177,3 @@ Power shared is power secured.
 ### Section 173: Interpretation in Harmony
 
 (1) For greater certainty, this Title is to be read harmoniously with other Acts. It provides interpretive substitutions and continuity only, and does not by itself alter the substance of any other Act unless expressly stated.
-
