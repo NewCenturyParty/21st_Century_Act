@@ -12,13 +12,13 @@ Building an economic system for the 21st Century, not the 18th.
 
 (3) Let it be acknowledged that we are in the later stages of Capitalism, with the system crumbling, soon to collapse in on itself, due to it only serving the few, rather than the public at large, and that the Government of Canada has an obligation to create an economy that serves every Canadian, no matter their wealth or background, and that the prosperity of Canada must be shared by the Canadian workers who create it.
 
-(4) The Government of Canada shall choose action in the face of such oncoming economic systemic collapse, and will take  such actions through the lens of Human Dignity, and the foundational principles of this Act, ensuring that all individuals in Canada have access to economic opportunities and democratic decision-making in how their work is done.
+(4) The Government of Canada shall choose action in the face of such oncoming economic systemic collapse, and shall take such actions through the lens of Human Dignity, and the foundational principles of this Act, ensuring that all individuals in Canada have access to economic opportunities and democratic decision-making in how their work is done.
 
 ### Section 238: Fiscal Accountability
 
 (1) All economic programs and institutions established under this Act shall operate with a framework of fiscal responsibility and long-term sustainability, while keeping in mind the external costs of austerity.
 
-(2) If, in any fiscal year, total expenditures under this Act are projected to exceed the total revenues credited to the National Renewal Fund and the Consolidated Revenue Fund by more than a prescribed percentage no less than 35%, the Minister of Finance must, within 90 days, table in each House of Parliament a revised fiscal outlook and plan to ensure long-term sustainability, which may include adjustments to spending, revenue or both.
+(2) If, in any fiscal year, total expenditures under this Act are projected to exceed the total revenues credited to the National Renewal Fund and the Consolidated Revenue Fund by more than a prescribed percentage no less than 35%, the Minister of Finance must, within 90 days, table in each House of Parliament a revised fiscal outlook and plan to ensure long-term sustainability, which may include adjustments to spending, revenue, or both.
 
 ## Title II: The Century Bank
 
@@ -32,7 +32,7 @@ Building an economic system for the 21st Century, not the 18th.
 
 (4) The Minister of Finance, or other such Minister as may be designated by the Governor in Council, is the appropriate Minister for Century Bank for the purposes of the Financial Administration Act.
 
-(5) The mandate of Century Bank is to finance and back the major projects of this Act using sovereign capital tools, while preserving democratic oversight, intergenerational stability, and dignity-aligned returns, while also providing individual Canadians with all purpose, everyday banking services, such as personal accounts that are strictly and completely no-fee that still include all the expected features of a modern banking platform, which shall be updated regularly to keep in line with the ever updating modern standards and expectations of banking services for Canadians.
+(5) The mandate of Century Bank is to finance and back the major projects of this Act using sovereign capital tools, while preserving democratic oversight, intergenerational stability, and dignity-aligned returns, while also providing individual Canadians with all purpose, everyday banking services, such as personal accounts that are strictly and completely no-fee that still include all the expected features of a modern banking platform, which shall be updated regularly to keep in line with the ever-updating modern standards and expectations of banking services for Canadians.
 
 (6) Further to its mandate, Century Bank shall measure financial success not by profit generated, but by the circulation of its money throughout the economy, ensuring that every dollar spent cycles through the Canadian economy at least twice before returning to the Century Bank.
 
@@ -44,67 +44,67 @@ Building an economic system for the 21st Century, not the 18th.
 
 (2) Without limiting the generality of subsection (1), Century Bank may, for the purposes of fulfilling its mandate, have such powers and functions as the following:
 
-(3) Acquire, hold, lease, develop, manage, and dispose of real and personal property;
+    (a) Acquire, hold, lease, develop, manage, and dispose of real and personal property;
 
-(2) Enter into contracts, agreements, joint ventures, memoranda of understanding, or other arrangements with any person, entity, level of government including Indigenous governing bodies, co-operatives, or non-profit organizations for the purposes relating to banking services of any kind relating to Century Bank’s mandate;
+    (b) Enter into contracts, agreements, joint ventures, memoranda of understanding, or other arrangements with any person, entity, level of government including Indigenous governing bodies, co-operatives, or non-profit organizations for the purposes relating to banking services of any kind relating to Century Bank’s mandate;
 
-(3) Where appropriate, consult and collaborate with the Bank of Canada on matters of shared interest concerning financial stability, while maintaining full operational independence in the fulfillment of its distinct mandate under this Act;
+    (c) Where appropriate, consult and collaborate with the Bank of Canada on matters of shared interest concerning financial stability, while maintaining full operational independence in the fulfillment of its distinct mandate under this Act;
 
-(4) Provide capital, specifically patient capital, to all federal bodies and institutions that are a part of enacting any part of this Act;
+    (d) Provide capital, specifically patient capital, to all federal bodies and institutions that are a part of enacting any part of this Act;
 
-(5) Provide direct financing and low-interest, patient, loans to co-operatives, community land trusts, non-profits, individuals, Indigenous nations and municipalities launching public ventures;
+    (e) Provide direct financing and low-interest, patient, loans to co-operatives, community land trusts, non-profits, individuals, Indigenous nations and municipalities launching public ventures;
 
-(6) Conduct and support research, innovation, and skills development related to looped economics, Economic Democracy, and the financial instruments and programs envisioned by this Act;
+    (f) Conduct and support research, innovation, and skills development related to looped economics, Economic Democracy, and the financial instruments and programs envisioned by this Act;
 
-(7) Develop, publish, and maintain the Dignified Assessment Protocol, in consultation with the Dignity Directorate, as the sole public-interest model for assessing financial reliability, pursuant to Part IV, Title XV of this Act;
+    (g) Develop, publish, and maintain the Dignified Assessment Protocol, in consultation with the Dignity Directorate, as the sole public-interest model for assessing financial reliability, pursuant to Part IV, Title XV of this Act;
 
-(8) Employ such officers and employees as are necessary for the proper conduct of its work;
+    (h) Employ such officers and employees as are necessary for the proper conduct of its work;
 
-(9) Make by-laws respecting the administration of its affairs; and
+    (i) Make by-laws respecting the administration of its affairs; and
 
-(10) Do all such other things incidental or conducive to the attainment of its mandate and exercise of its powers.
+    (j) Do all such other things incidental or conducive to the attainment of its mandate and exercise of its powers.
 
 ### Section 241: Core Programs
 
 (1) Century Bank, in fulfilling its mandate, shall implement the following core programs:
 
-(2) Personal Bank Services, otherwise known as Century Accounts, which will provide such things as individual, no fee, full service, fully featured digital bank accounts to any individual in Canada. The personal banking services division of Century Bank shall also offer business loans, with patient capital and low-interest agreements for co-operatives, Indigenous governing bodies and municipalities launching public ventures;
+    (a) Personal Bank Services, otherwise known as Century Accounts, which will provide such things as individual, no fee, full service, fully featured digital bank accounts to any individual in Canada. The personal banking services division of Century Bank shall also offer business loans, with patient capital and low-interest agreements for co-operatives, Indigenous governing bodies and municipalities launching public ventures;
 
-(2) Century Bonds, which are bonds, issued by the Century Bank, sold to domestic, international, and individual investors, credit unions, banks, unions, pension funds, municipalities, provinces, states, Central Banks, and whoever else believes in Canada with 25-year terms sold to average investors, and 50-to-100-year terms for long-term or institutional investors, each with purpose linked yields, marketed as patriotic acts of investment in Canada and Canadian renewal. Century Bonds shall be sold in different variations including, but not limited to, the following:
+    (b) Century Bonds, which are bonds, issued by the Century Bank, sold to domestic, international, and individual investors, credit unions, banks, unions, pension funds, municipalities, provinces, states, Central Banks, and whoever else believes in Canada, with 25-year terms sold to average investors, and 50-to-100-year terms for long-term or institutional investors, each with purpose linked yields, marketed as patriotic acts of investment in Canada and Canadian renewal. Century Bonds shall be sold in different variations including, but not limited to, the following:
 
-    (a) Climate Century Bonds.
+        (i) Climate Century Bonds.
 
-    (b) Green Infrastructure Century Bonds;
+        (ii) Green Infrastructure Century Bonds;
 
-    (c) Housing Century Bonds;
+        (iii) Housing Century Bonds;
 
-    (d) Dignity Century Bonds.
+        (iv) Dignity Century Bonds.
 
-    (e) Reconciliation Century Bonds.
+        (v) Reconciliation Century Bonds.
 
-    (f) Human Dignity Century Bonds;
+        (vi) Human Dignity Century Bonds;
 
-    (g) CCC Century Bonds;
+        (vii) CCC Century Bonds;
 
-    (h) Maglev Network Century Bonds;
+        (viii) Maglev Network Century Bonds;
 
-    (i) Satellite Constellation Century Bonds.
+        (ix) Satellite Constellation Century Bonds.
 
-(3) Long-Term Reserves, which shall be funded by revenues from the personal banking services, and a small portion of each Century Bonds sale, shall be held to ensure that there are necessary emergency funds for programs like the Dignity Dividend, as well as for emergency situations;
+    (c) Long-Term Reserves, which shall be funded by revenues from the personal banking services, and a small portion of each Century Bonds sale, shall be held to ensure that there are necessary emergency funds for programs like the Dignity Dividend, as well as for emergency situations;
 
-(4) The Loop Yield Framework program, which measures looped economic returns on every dollar spent by Century Bank and how it is circulated through the Canadian economy, and how many times it circulates before it returns to Century Bank in forms such as repayment. Such framework shall measure the returns on its investments not just in dollars spent and circulated, but by tangible outcomes such as housing units built, clean energy generated, child care spaces created, elder care homes created, and emissions reduced;
+    (d) The Loop Yield Framework program, which measures looped economic returns on every dollar spent by Century Bank and how it is circulated through the Canadian economy, and how many times it circulates before it returns to Century Bank in forms such as repayment. Such framework shall measure the returns on its investments not just in dollars spent and circulated, but by tangible outcomes such as housing units built, clean energy generated, child care spaces created, elder care homes created, and emissions reduced;
 
-(5) The Century Bond Portal, which shall be a dashboard purchasers of Century Bonds will have access to, displaying their personal investment’s Loop Yield as detailed under subsection (1)(d);
+    (e) The Century Bond Portal, which shall be a dashboard purchasers of Century Bonds will have access to, displaying their personal investment’s Loop Yield as detailed under subsection (1)(d);
 
-(6) The Domestic Manufacturing and Supply Chain Resilience Program, where the Century Bank shall, in collaboration with the NCDA, and other relevant agencies, develop and finance a national strategy to re-shore and expand domestic explicitly eco-friendly, net-zero, manufacturing capacity in critical sectors, including, but not limited to, the following:
+    (f) The Domestic Manufacturing and Supply Chain Resilience Program, where the Century Bank shall, in collaboration with the NCDA, and other relevant agencies, develop and finance a national strategy to re-shore and expand domestic explicitly eco-friendly, net-zero, manufacturing capacity in critical sectors, including, but not limited to, the following:
 
-    (a) Renewable energy components.
+        (i) Renewable energy components.
 
-    (b) Telecommunications hardware; and
+        (ii) Telecommunications hardware; and
 
-    (c) Pharmaceutical production.
+        (iii) Pharmaceutical production.
 
-(7) The Small Business Wage Parity Program, which shall give grants and financial assistance to small businesses who apply and make accounts with Century Bank, helping them meet and compete with the new federal standards for wages and working hours established in this Act. Century Bank shall establish regulations for this program to define what a small business is for this program.
+    (g) The Small Business Wage Parity Program, which shall give grants and financial assistance to small businesses who apply and make accounts with Century Bank, helping them meet and compete with the new federal standards for wages and working hours established in this Act. Century Bank shall establish regulations for this program to define what a small business is for this program.
 
 ### Section 242: Governance
 
@@ -112,19 +112,19 @@ Building an economic system for the 21st Century, not the 18th.
 
 (2) The Governor of Century Bank, who shall be responsible for the day-to-day management and overall direction of Century Bank, shall be appointed by the Governing Board, and shall serve at the pleasure of the Board.
 
-(3) The Governing Board of Century Bank shall be composed of the following 21 member representatives, in rotating five-year terms, from three distinct stakeholder groups:
+(3) The Governing Board of Century Bank shall be composed of the following 21 members, in rotating five-year terms, from three distinct stakeholder groups:
 
-(4) Seven member representatives chosen by the Governor in Council for their expertise in such fields as, but not limited to:
+    (a) Seven members chosen by the Governor in Council for their expertise in such fields as, but not limited to:
 
-    (a) the field of economics.
+        (i) The field of economics.
 
-    (b) risk management; and
+        (ii) Risk management; and
 
-    (c) Fiscal/monetary policy.
+        (iii) Fiscal/monetary policy.
 
-(2) Seven member representatives chosen by civic lottery, as defined under section 3 of this Act;
+    (b) Seven members chosen by civic lottery, as defined under section 3 of this Act;
 
-(3) Seven member representatives chosen by Indigenous governing bodies, such as the Assembly of First Nations, Inuit Tapiriit Kanatami, and Métis National Council;
+    (c) Seven members chosen by Indigenous governing bodies, such as the Assembly of First Nations, Inuit Tapiriit Kanatami, and the Métis National Council;
 
 (4) The Governing Board shall be supported by a Technical Advisory Committee, composed of experts in relevant fields, who shall be responsible for advising the Governing Board on areas relevant to their roles as members of said Board, ensuring that even a layperson chosen by civic lottery will be able to fully participate in their role, and learn on the job; and
 
@@ -134,7 +134,7 @@ Building an economic system for the 21st Century, not the 18th.
 
 (1) Century Bank shall be subject to audit and oversight by the Foundation Commission, and Parliament through the Minister of Finance.
 
-(2) Century Bank shall prepare an Agency plan and operation and capital budget for the fiscal year, to be submitted to the Minister of Finance for the approval by the Treasury Board.
+(2) Century Bank shall prepare an Agency plan and operational and capital budget for the fiscal year, to be submitted to the Minister of Finance for the approval by the Treasury Board.
 
 (3) Century Bank shall submit an annual report to the Minister of Finance who shall table it before Parliament. The report shall include a comprehensive account of Century Bank’s operations and performance against its mandate.
 
@@ -168,87 +168,87 @@ Building an economic system for the 21st Century, not the 18th.
 
 (2) Without limiting the generality of subsection (1), the NCDA may, for the purposes of fulfilling its mandate, have such powers and functions as the following:
 
-(3) Acquire, hold, lease, manage, and dispose of real and personal property;
+    (a) Acquire, hold, lease, manage, and dispose of real and personal property;
 
-(2) Enter into contracts, agreements, memoranda of understanding, or other arrangements with any person, entity, level of government, including Indigenous governing bodies or co-operatives;
+    (b) Enter into contracts, agreements, memoranda of understanding, or other arrangements with any person, entity, level of government, including Indigenous governing bodies or co-operatives;
 
-(3) Establish programs, provide financing through grants or loans, and offer technical support and advisory services consistent with its mandate;
+    (c) Establish programs, provide financing through grants or loans, and offer technical support and advisory services consistent with its mandate;
 
-(4) Conduct and support research, innovation, and skills development related to co-operative development and stewardship, community wealth building, the effects of the aforementioned topics, and Economic Democracy as a whole;
+    (d) Conduct and support research, innovation, and skills development related to co-operative development and stewardship, community wealth building, the effects of the aforementioned topics, and Economic Democracy as a whole;
 
-(5) Employ such officers and employees as are necessary for the proper conduct of its work, consistent with the principles of Loop Governance, as detailed under Part II, Title I of this Act;
+    (e) Employ such officers and employees as are necessary for the proper conduct of its work, consistent with the principles of Loop Governance, as detailed under Part II, Title I of this Act;
 
-(6) Make by-laws respecting the administration of its affairs; and
+    (f) Make by-laws respecting the administration of its affairs; and
 
-(7) Do all such other things incidental or conducive to the attainment of its mandate and exercise of its powers.
+    (g) Do all such other things incidental or conducive to the attainment of its mandate and exercise of its powers.
 
 ### Section 247: Core Programs
 
 (1) The NCDA, in fulfilling its mandate, shall implement the following core programs:
 
-(2) The Co-Op Development program, which shall support the formation and growth of new and existing worker co-operatives, in ways such as, but not limited to, the following:
+    (a) The Co-Op Development program, which shall support the formation and growth of new and existing worker co-operatives, in ways such as, but not limited to, the following:
 
-    (a) Facilitating access to business planning and development strategies.
+        (i) Facilitating access to business planning and development strategies.
 
-    (b) Providing startup capital through partnership with the Century Bank;
+        (ii) Providing startup capital through partnership with the Century Bank;
 
-    (c) Providing relevant literature and references for their co-operative through partnership with Libraries Canada;
+        (iii) Providing relevant literature and references for their co-operative through partnership with Libraries Canada;
 
-    (d) Fast track consumer co-operative development of consumer co-operatives for key sectors such as healthcare, housing, energy, and agri-food, to enhance public access, affordability, and resilience.
+        (iv) Fast track consumer co-operative development of consumer co-operatives for key sectors such as healthcare, housing, energy, and agri-food, to enhance public access, affordability, and resilience.
 
-    (e) Offering training and mentorship programs on co-operative principles and development, democratic worker governance, and financial management; and
+        (v) Offering training and mentorship programs on co-operative principles and development, democratic worker governance, and financial management; and
 
-    (f) Assisting in navigating legal and regulatory requirements.
+        (vi) Assisting in navigating legal and regulatory requirements.
 
-(2) The Land Trust Development program, which shall support the formation and growth of new and existing Land Trusts through the same methods detailed in subsection (1)(a).
+    (b) The Land Trust Development program, which shall support the formation and growth of new and existing Land Trusts through the same methods detailed in paragraph (a).
 
 ### Section 248: Workplace Democracy Measures
 
-(1) The NCDA shall support the implementation of measures to enhance workplace democracy through, but not limited by, the following measures:
+(1) The NCDA shall support the implementation of measures to enhance workplace democracy through, but not limited to, the following measures:
 
-(2) Supporting the establishment and effective exercise, within federal jurisdiction, of a legal right for employees to request co-determination processes or employee ownership transition plans in companies employing more than 100 employees, and promoting the adoption of similar rights within provincial and territorial jurisdictions;
+    (a) Supporting the establishment and effective exercise, within federal jurisdiction, of a legal right for employees to request co-determination processes or employee ownership transition plans in companies employing more than 100 employees, and promoting the adoption of similar rights within provincial and territorial jurisdictions;
 
-(2) Supporting the establishment and effective exercise, within federal jurisdiction, of a right to first refusal for employees when a company decides to sell or close the business, to facilitate potential employee-led buyouts, and promoting the adoption of similar rights within provincial and territorial jurisdictions; and
+    (b) Supporting the establishment and effective exercise, within federal jurisdiction, of a right to first refusal for employees when a company decides to sell or close the business, to facilitate potential employee-led buyouts, and promoting the adoption of similar rights within provincial and territorial jurisdictions; and
 
-(3) Providing grants and tax incentives for businesses, and their owners, to employee ownership, co-determination models, or Employee Stock Ownership Plans otherwise known as ESOPs.
+    (c) Providing grants and tax incentives for businesses, and their owners, to employee ownership, co-determination models, or Employee Stock Ownership Plans otherwise known as ESOPs.
 
-(4) The NCDA shall ensure worker representation on relevant advisory boards on the Century Bank and other institutions established or renewed under this Act.
+(2) The NCDA shall ensure worker representation on relevant advisory boards on the Century Bank and other institutions established or renewed under this Act.
 
 ### Section 249: Governance
 
 (1) The NCDA shall be governed in accordance with the principles of Loop Governance as set out in Part II, Title I of this Act, and with the internationally recognized principles of co-operation.
 
-(2) The NCDA Circle of Circles shall be known as the Co-operative Circle of Circles, and shall be composed of the following five peer circle Groups, subject to review and change following consultation with relevant stakeholders:
+(2) The NCDA Circle of Circles shall be known as the Co-operative Circle of Circles, and shall be composed of the following five peer Circle Groups, subject to review and change following consultation with relevant stakeholders:
 
-(3) The Labour and Workers Circle Group;
+    (a) The Labour and Workers Circle Group;
 
-(2) The Staffing and Logistics Circle Group;
+    (b) The Staffing and Logistics Circle Group;
 
-(3) The Industry Experts Circle Group;
+    (c) The Industry Experts Circle Group;
 
-(4) The Co-operative Legal Expertise Circle Group; and
+    (d) The Co-operative Legal Expertise Circle Group; and
 
-(5) The Funding Circle Group.
+    (e) The Funding Circle Group.
 
-(6) Membership within each peer Circle Group shall reflect a balance of regional expertise, lived experience, scientific, technical, logistical, or other relevant skills groups.
+(3) Membership within each peer Circle Group shall reflect a balance of regional expertise, lived experience, scientific, technical, logistical, or other relevant skills groups.
 
-(7) Each peer Circle Group shall include Indigenous representation as a standing requirement.
+(4) Each peer Circle Group shall include Indigenous representation as a standing requirement.
 
-(8) The NDCA’s Shared Wisdom Council shall be composed of:
+(5) The NCDA’s Shared Wisdom Council shall be composed of:
 
-(9) One delegate from each of the five peer Circle Groups;
+    (a) One delegate from each of the five peer Circle Groups;
 
-(2) One representative elected by the Canadian Co-operative sector;
+    (b) One representative elected by the Canadian Co-operative sector;
 
-(3) One representative from the unionized labour sector; and
+    (c) One representative from the unionized labour sector; and
 
-(4) One representative worker-owner of a co-operative within Canada, chosen by civic lottery.
+    (d) One representative worker-owner of a co-operative within Canada, chosen by civic lottery.
 
 ### Section 250: Accountability
 
 (1) The NCDA shall be subject to audit and oversight by the Foundation Commission.
 
-(2) The NCDA shall prepare a corporate, or Loop Governance or Co-operative, equivalent plan and operation and capital budget for the fiscal year, to be submitted to the responsible Minister for the approval by the Treasury Board, in accordance with the Financial Administration Act.
+(2) The NCDA shall prepare a corporate, or a Loop Governance or Co-operative equivalent, plan and operational and capital budget for the fiscal year, to be submitted to the responsible Minister for the approval by the Treasury Board, in accordance with the Financial Administration Act.
 
 (3) The NCDA shall submit an annual report to the responsible Minister, who shall table it before Parliament. The report shall include a comprehensive account of the NCDA’s operations and its performance against its mandate, including numbers of newly formed co-operatives, and the overview of new and existing co-operatives in Canada, their successes and struggles.
 
@@ -276,11 +276,10 @@ Building an economic system for the 21st Century, not the 18th.
 
 (1) The Fund may be utilized to purchase or assist the transition of businesses into worker-owned entities in such circumstances as, but not limited to, the following:
 
-(2) Current owners are retiring and seeking a succession plan that preserves local jobs and community assets;
+    (a) Current owners are retiring and seeking a succession plan that preserves local jobs and community assets;
 
-(2) The business is facing imminent bankruptcy, and employee ownership offers a viable path to continuity and job retention; and
+    (b) The business is facing imminent bankruptcy, and employee ownership offers a viable path to continuity and job retention; and
 
-(3) The closure or sale of a business, especially those that pose a high risk to community stability, such as in factory towns, or for Indigenous owned supply chains.
+    (c) The closure or sale of a business, especially those that pose a high risk to community stability, such as in factory towns, or for Indigenous owned supply chains.
 
-(4) The NCDA shall administer the Fund and establish detailed criteria and processes for evaluating applications and disbursing of those funds, ensuring transparency, through the public disclosure of such criteria and processes, and alignment with the principles of Economic Democracy, as defined under section 3 of this Act.
-
+(2) The NCDA shall administer the Fund and establish detailed criteria and processes for evaluating applications and disbursing of those funds, ensuring transparency, through the public disclosure of such criteria and processes, and alignment with the principles of Economic Democracy, as defined under section 3 of this Act.
