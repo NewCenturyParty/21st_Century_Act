@@ -6,13 +6,13 @@ Democracy as a shared codebase.
 
 ### Section 320: Dignity in Democratic Participation
 
-(1) The Government of Canada is committed to enacting the right to democratic access and expression, as described in Part IV, Title XII, and the right to a non-corrupt government, as described in Part IV, Title XVI of this Act, and shall do so in accordance with the principles of this Act, as described in section 6, and Human Dignity as detailed under Part III of this Act.
+(1) The Government of Canada is committed to enacting the right to democratic access and expression, as detailed under Part IV, Title XII, and the right to a non-corrupt government, as detailed under Part IV, Title XVI of this Act, and shall do so in accordance with the principles of this Act, as detailed in section 6, and Human Dignity as detailed under Part III of this Act.
 
 (2) In fulfilling its commitments detailed in subsection (1), the Government of Canada shall enact Codeshare Civics, a method of collaborative and participatory governance made for the 21st Century, allowing individuals in Canada to see legislation in real-time, and even suggest changes or new laws entirely, shaping the laws they themselves follow, giving dignity to legislation.
 
 (3) Let it be acknowledged that backroom deals, lobbyist interests, and lack of transparency pose a risk to the social fabric of Canadian society, dismantling trust in the system meant to protect and provide for Canadians.
 
-(4) The Government of Canada chooses action in the face of such challenges, and will take such actions through the lens of Human Dignity, and the foundational principles of this Act, ensuring that all individuals in Canada have a say in the laws that govern them.
+(4) The Government of Canada chooses action in the face of such challenges, and shall take such actions through the lens of Human Dignity, and the foundational principles of this Act, ensuring that all individuals in Canada have a say in the laws that govern them.
 
 ## Title II: Overview and Core Principles
 
@@ -26,15 +26,15 @@ Democracy as a shared codebase.
 
 (1) Codeshare Civics shall operate on the following core principles:
 
-(2) Transparency as default, which means all legislative and policy development processes, including drafting, amendments, and budgeting, shall be transparent and publicly logged in real-time;
+    (a) Transparency as default, which means all legislative and policy development processes, including drafting, amendments, and budgeting, shall be transparent and publicly logged in real-time;
 
-(2) Collaboration over consultation, which means citizens shall not merely respond to proposals they hear about through separate channels, but shall be empowered to actively participate and propose, iterate, and contribute to policy development through git.canada.ca, as detailed under Part XI of this Act, using Canadians @canadapost.ca emails to create accounts online to contribute;
+    (b) Collaboration over consultation, which means citizens shall not merely respond to proposals they hear about through separate channels, but shall be empowered to actively participate and propose, iterate, and contribute to policy development through git.canada.ca, as detailed under Part XI of this Act, using Canadians' @canadapost.ca emails to create accounts online to contribute;
 
-(3) Accountability through version history, which means no change to legislation, policy, or public data shall be lost, hidden, or undocumented, ensuring a complete and accessible audit trail;
+    (c) Accountability through version history, which means no change to legislation, policy, or public data shall be lost, hidden, or undocumented, ensuring a complete and accessible audit trail;
 
-(4) Diff view by default, which means that Diff View, as defined under section 3 of this Act, shall be implemented by default for all works on git.canada.ca, ensuring that any changes made can be easily seen through visual markers; and
+    (d) Diff view by default, which means that Diff View, as defined under section 3 of this Act, shall be implemented by default for all works on git.canada.ca, ensuring that any changes made can be easily seen through visual markers; and
 
-(5) Public interest commits, which means every legislative action shall be accompanied by a clear changelog, rationale, and mechanism for public and Parliamentary feedback and review.
+    (e) Public interest commits, which means every legislative action shall be accompanied by a clear changelog, rationale, and mechanism for public and Parliamentary feedback and review.
 
 ## Title III: Legal Integration and Parliamentary Procedure
 
@@ -48,7 +48,7 @@ Democracy as a shared codebase.
 
 (4) Commit authors, or stewards, including Members of Parliament, and public servants, shall be required to include Dignity Impact Assessments for their proposed changes before legislation proceeds to the final vote.
 
-(5) Popular legislative proposals, found online through platforms like Aurora, or offline through signed petitions, can be brought to the Parliament by Members of Parliament who wish to sponsor said proposals. Such proposals shall be mirrored, if not already, to git.canada.ca where those proposing the changes shall be all labeled as contributing stewards, with proper accreditation and compensation, including monetary.
+(5) Popular legislative proposals, found online through platforms like Aurora, or offline through signed petitions, can be brought to Parliament by Members of Parliament who wish to sponsor said proposals. Such proposals shall be mirrored, if not already, to git.canada.ca where those proposing the changes shall be all labeled as contributing stewards, with proper accreditation and compensation, including monetary.
 
 (6) Aurora Circles shall be set up to directly discuss and contribute to legislation found on git.canada.ca.
 
@@ -62,11 +62,11 @@ Democracy as a shared codebase.
 
 (2) Codeshare Civics shall be taught to new Canadian Century Corps Cadets, ensuring those who serve their country have a say in how it operates.
 
-(3) All education material on Codeshare Civics must include hands on practice, in education specific forks or branches of the main git.canada.ca, and its various items, as to ensure individuals in Canada are comfortable with the actual use and practice of Codeshare Civics.
+(3) All education material on Codeshare Civics must include hands-on practice, in education-specific forks or branches of the main git.canada.ca, and its various items, as to ensure individuals in Canada are comfortable with the actual use and practice of Codeshare Civics.
 
 ### Section 325: Public Engagement
 
-(1) Dignity Hubs, as established in Part III of this Act, and participating Libraries Canada libraries, as described in Part VIII of this Act, shall run weekly workshops, ‘Patching the Law’ which shall provide citizens with hands-on opportunities to engage with legislative drafting, amendments, and making forks or pull requests, all on git.canada.ca.
+(1) Dignity Hubs, as established in Part III of this Act, and participating Libraries Canada libraries, as detailed in Part VIII of this Act, shall run weekly workshops, ‘Patching the Law’ which shall provide citizens with hands-on opportunities to engage with legislative drafting, amendments, and making forks or pull requests, all on git.canada.ca.
 
 (2) The Canadian Century Corps’ Digital and Tech Corps’ Cadets shall host regional periodic Civic Hackathons to encourage collaborative problem-solving and the development of innovative solutions to public policy challenges using open-source tools.
 
@@ -91,4 +91,3 @@ Democracy as a shared codebase.
 (3) Diff View will clearly show the changes through symbolic and colour-coded means, such as ‘--’ for removals with red highlighting, and ‘++’ for additions with green highlighting, in a side-by-side manner, ensuring easy understanding of the changes made or proposed.
 
 (4) Every proposed law, amendment, regulation, policy, or any legislation submitted to git.canada.ca repositories shall be subject to Diff View.
-
