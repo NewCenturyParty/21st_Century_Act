@@ -16,61 +16,61 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (1) The right to Human Dignity, as articulated throughout this Act, includes entitlements to the conditions necessary for flourishing, which shall include, but not be limited to:
 
-(2) Adequate housing, as defined under section 3 of this Act;
+    (a) Adequate housing, as defined under section 3 of this Act;
 
-(2) Food Security, as defined under section 3 of this Act;
+    (b) Food Security, as defined under section 3 of this Act;
 
-(3) Clean Water and sanitation;
+    (c) Clean Water and sanitation;
 
-(4) Access to power, energy, heating and cooling;
+    (d) Access to power, energy, heating and cooling;
 
-(5) Comprehensive and accessible healthcare, as defined under section 3 of this Act.;
+    (e) Comprehensive and accessible healthcare, as defined under section 3 of this Act.;
 
-(6) Inclusive high-quality education and lifelong learning opportunities;
+    (f) Inclusive high-quality education and lifelong learning opportunities;
 
-(7) Equitable digital literacy and access, including to high-speed internet;
+    (h) Equitable digital literacy and access, including to high-speed internet;
 
-(8) Meaningful community participation and dignified work opportunities; and
+    (i) Meaningful community participation and dignified work opportunities; and
 
-(9) More than sufficient free time to participate in life outside of work.
+    (j) More than sufficient free time to participate in life outside of work.
 
-(10) The Government of Canada shall take immediate and deliberate steps, to the maximum of its available resources, to ensure, at a minimum:
+(2) The Government of Canada shall take immediate and deliberate steps, to the maximum of its available resources, to ensure, at a minimum:
 
-(11) For the entitlement of adequate housing:
+    (a) For the entitlement of adequate housing:
 
-    (a) Access to basic shelter, protection against eviction, with or without cause, and safe and healthy living conditions preventing exposure to immediate threats to life or health.
+        (i) Access to basic shelter, protection against eviction, with or without cause, and safe and healthy living conditions preventing exposure to immediate threats to life or health.
 
-(2) For the entitlement to food security:
+    (b) For the entitlement to food security:
 
-    (a) Access to sufficient, safe, nutritious, and culturally appropriate food to prevent hunger and malnutrition.
+        (i) Access to sufficient, safe, nutritious, and culturally appropriate food to prevent hunger and malnutrition.
 
-(3) For the entitlement to comprehensive health care:
+    (c) For the entitlement to comprehensive health care:
 
-    (a) Universal access to free comprehensive healthcare that is timely and easily accessible both physically and digitally.
+        (i) Universal access to free comprehensive healthcare that is timely and easily accessible both physically and digitally.
 
-(4) For the entitlement to inclusive high-quality education and lifelong learning opportunities:
+    (d) For the entitlement to inclusive high-quality education and lifelong learning opportunities:
 
-    (a) Universal access to free and compulsory primary and secondary education; and
+        (i) Universal access to free and compulsory primary and secondary education; and
 
-    (b) Equitable access to foundational literacy and numeracy programs for any age group.
+        (ii) Equitable access to foundational literacy and numeracy programs for any age group.
 
-(5) For the entitlement to equitable digital access:
+    (e) For the entitlement to equitable digital access:
 
-    (a) Access to affordable and essential digital connectivity; and
+        (i) Access to affordable and essential digital connectivity; and
 
-    (b) Foundational digital literacy support for necessary participation in society and access to essential services.
+        (ii) Foundational digital literacy support for necessary participation in society and access to essential services.
 
-(6) For the entitlement to meaningful participation and dignified work opportunities:
+    (f) For the entitlement to meaningful participation and dignified work opportunities:
 
-    (a) Protections are put in place against forced labour, child labour, and wage-theft; and
+        (i) Protections are put in place against forced labour, child labour, and wage-theft; and
 
-    (b) Supports are put in place for basic work opportunities and civic engagement.
+        (ii) Supports are put in place for basic work opportunities and civic engagement.
 
-(7) Beyond the minimum core obligations specified in subsection (2), the full realization of all aspects of the entitlements listed in subsection (1) shall be progressively achieved by the Government of Canada, within its jurisdiction, through sustained legislative policy and programmatic measures, designed to ensure universal and equitable access. These measures shall be ambitious, time-bound where appropriate, and subject to regular monitoring and public reporting.
+(3) Beyond the minimum core obligations specified in subsection (2), the full realization of all aspects of the entitlements listed in subsection (1) shall be progressively achieved by the Government of Canada, within its jurisdiction, through sustained legislative policy and programmatic measures, designed to ensure universal and equitable access. These measures shall be ambitious, time-bound where appropriate, and subject to regular monitoring and public reporting.
 
-(8) The Government of Canada shall, in collaboration with provincial, territorial, and Indigenous governments, develop and implement strategies to ensure that all individuals in Canada have access to the conditions of flourishing, and thus Human Dignity, respecting both the minimum core obligations and the progressive realization of these elements.
+(4) The Government of Canada shall, in collaboration with provincial, territorial, and Indigenous governments, develop and implement strategies to ensure that all individuals in Canada have access to the conditions of flourishing, and thus Human Dignity, respecting both the minimum core obligations and the progressive realization of these elements.
 
-(9) Such progressive realizations, as mentioned in subsection (4) of the entitlements of subsection (1) shall be either made in regulation of this Act or made explicit throughout this Act.
+(5) Such progressive realizations, as mentioned in subsection (4) of the entitlements of subsection (1) shall be either made in regulation of this Act or made explicit throughout this Act.
 
 ## Title II: The Dignity Directorate
 
@@ -86,47 +86,47 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (1) The core powers and functions of the Dignity Directorate are as follows:
 
-(2) Developing and maintaining, including guidelines and methodologies for, the Dignity Impact Assessment (DIA) as further detailed in Title III of this Part;
+    (a) Developing and maintaining, including guidelines and methodologies for, the Dignity Impact Assessment (DIA) as further detailed in Title III of this Part;
 
-(2) Developing and maintaining the Dignity Evaluation Framework as further detailed in Title III of this Part;
+    (b) Developing and maintaining the Dignity Evaluation Framework as further detailed in Title III of this Part;
 
-(3) Reviewing and scoring DIAs submitted by federal departments and agencies;
+    (c) Reviewing and scoring DIAs submitted by federal departments and agencies;
 
-(4) Provide expert advice on how to improve DIA outcomes;
+    (d) Provide expert advice on how to improve DIA outcomes;
 
-(5) Monitoring the implementation of dignity related policies and programs;
+    (e) Monitoring the implementation of dignity related policies and programs;
 
-(6) Receive complaints from individuals or groups alleging systemic failures or significant individual breaches by federal entities of entitlements and rights set forth within this Act;
+    (f) Receive complaints from individuals or groups alleging systemic failures or significant individual breaches by federal entities of entitlements and rights set forth within this Act;
 
-(7) Conduct investigations into such complaints or refer them to the appropriate investigative or adjudicative bodies;
+    (g) Conduct investigations into such complaints or refer them to the appropriate investigative or adjudicative bodies;
 
-(8) Facilitate mediation or other dispute resolution processes between those who claim their rights and entitlements to Human Dignity have been infringed and federal agencies;
+    (h) Facilitate mediation or other dispute resolution processes between those who claim their rights and entitlements to Human Dignity have been infringed and federal agencies;
 
-(9) Oversee the operations of Dignity Hubs, as further detailed in Title V of this Part;
+    (i) Oversee the operations of Dignity Hubs, as further detailed in Title V of this Part;
 
-(10) Conducting public awareness campaigns on the importance of Human Dignity in public policy; and
+    (j) Conducting public awareness campaigns on the importance of Human Dignity in public policy; and
 
-(11) Collaborating with the Foundation Commission, Democracy Watch Canada, and other relevant institutions to ensure the comprehensive application of dignity principles;
+    (k) Collaborating with the Foundation Commission, Democracy Watch Canada, and other relevant institutions to ensure the comprehensive application of dignity principles;
 
-(12) Conduct regular, independent, and systemic audits of federal policing and security agencies, including the Royal Canadian Mounted Police, the Canadian Armed Forces, and Canadian Security Intelligence Service, to ensure their policies, training, and conduct are consistent with the principles of this Act and of Human Dignity as established in this Act;
+    (l) Conduct regular, independent, and systemic audits of federal policing and security agencies, including the Royal Canadian Mounted Police, the Canadian Armed Forces, and Canadian Security Intelligence Service, to ensure their policies, training, and conduct are consistent with the principles of this Act and of Human Dignity as established in this Act;
 
-(13) Investigate serious incidents involving federal public safety officers, such as the Royal Canadian Mounted Police, the Canadian Security Intelligence Service, and the Canadian Armed Forces, and to issue binding recommendations for disciplinary action, up to and including termination, to the head of the relevant agency;
+    (m) Investigate serious incidents involving federal public safety officers, such as the Royal Canadian Mounted Police, the Canadian Security Intelligence Service, and the Canadian Armed Forces, and to issue binding recommendations for disciplinary action, up to and including termination, to the head of the relevant agency;
 
-(14) To consult on and provide ongoing oversight for the Dignified Assessment Protocol developed by Century Bank, ensuring its design and implementation are fully aligned with the principles of this Act;
+    (n) To consult on and provide ongoing oversight for the Dignified Assessment Protocol developed by Century Bank, ensuring its design and implementation are fully aligned with the principles of this Act;
 
-(15) Employ such officers and employees as are necessary for the proper conduct of its work, in accordance with the Public Service Employment Act; and
+    (o) Employ such officers and employees as are necessary for the proper conduct of its work, in accordance with the Public Service Employment Act; and
 
-(16) Do all such other things as are incidental and conducive to the attainment of its mandate.
+    (p) Do all such other things as are incidental and conducive to the attainment of its mandate.
 
 ### Section 52: Core Programs
 
 (1) The Dignity Directorate, in fulfilling its mandate, shall implement the following core programs:
 
-(2) The Dignity Impact Assessment, further detailed herein, which shall be created, managed, and overseen, by the Dignity Directorate who shall review every submission of a DIA, ensuring Dignity is upheld;
+    (a) The Dignity Impact Assessment, further detailed herein, which shall be created, managed, and overseen, by the Dignity Directorate who shall review every submission of a DIA, ensuring Dignity is upheld;
 
-(2) The Dignity Evaluation Framework, further detailed herein, which shall create a dashboard and accountability framework that shows the government, and the public, the status of Dignity in Canada; and
+    (b) The Dignity Evaluation Framework, further detailed herein, which shall create a dashboard and accountability framework that shows the government, and the public, the status of Dignity in Canada; and
 
-(3) The Public Safety Oversight program, which shall be headed by a Director of Public Safety Oversight, appointed by the Governor in Council, possessing significant expertise in human rights law and police oversight, and shall have independent authority over all investigations pursuant to this Title.
+    (c) The Public Safety Oversight program, which shall be headed by a Director of Public Safety Oversight, appointed by the Governor in Council, possessing significant expertise in human rights law and police oversight, and shall have independent authority over all investigations pursuant to this Title.
 
 ### Section 53: Governance
 
@@ -160,7 +160,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (1) Any person directly affected by a decision or order of the Dignity Directorate under this Part may, within 30 days after the day on which the decision or order is made, apply for judicial review to the Federal Court.
 
-## Title III: Dignity in Government \- The DIA and DEF
+## Title III: Dignity in Government - The DIA and DEF
 
 ### Section 57: Requirements for Dignity Impact Assessments
 
@@ -172,45 +172,45 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (1) A DIA shall systematically assess the potential impacts of a proposed measure on Human Dignity, with particular attention to its effects on:
 
-(2) Access to adequate housing, as defined under section 3 of this Act;
+    (a) Access to adequate housing, as defined under section 3 of this Act;
 
-(2) Food security, as defined under section 3 of this Act;
+    (b) Food security, as defined under section 3 of this Act;
 
-(3) Quality of healthcare, access to healthcare, and healthcare outcomes;
+    (c) Quality of healthcare, access to healthcare, and healthcare outcomes;
 
-(4) Educational opportunities and attainment;
+    (d) Educational opportunities and attainment;
 
-(5) Digital access and inclusion;
+    (e) Digital access and inclusion;
 
-(6) Meaningful work and economic security;
+    (f) Meaningful work and economic security;
 
-(7) Social inclusion and belonging;
+    (g) Social inclusion and belonging;
 
-(8) Physical and psychological integrity and safety;
+    (h) Physical and psychological integrity and safety;
 
-(9) And the rights and well-being of vulnerable or marginalized groups, including, but not limited to:
+    (i) And the rights and well-being of vulnerable or marginalized groups, including, but not limited to:
 
-    (a) Indigenous Peoples.
+        (i) Indigenous Peoples.
 
-    (b) Racialized communities;
+        (ii) Racialized communities;
 
-    (c) Persons with disabilities;
+        (iii) Persons with disabilities;
 
-    (d) Women.
+        (iv) Women.
 
-    (e) Children; and
+        (v) Children; and
 
-    (f) Seniors.
+        (vi) Seniors.
 
-(10) A DIA shall include such things as:
+(2) A DIA shall include such things as:
 
-(11) A detailed analysis of potential positive and negative effects on dignity, including any disproportionate effects on specific populations;
+    (a) A detailed analysis of potential positive and negative effects on dignity, including any disproportionate effects on specific populations;
 
-(2) Metrics and indicators for assessing potential harms or gaps in the areas specified in subsection (1);
+    (b) Metrics and indicators for assessing potential harms or gaps in the areas specified in subsection (1);
 
-(3) An identification of alternative approaches or mitigation measures that could enhance dignity or reduce negative impacts; and
+    (c) An identification of alternative approaches or mitigation measures that could enhance dignity or reduce negative impacts; and
 
-(4) A summary of public and stakeholder consultations undertaken in relation to dignity impacts.
+    (d) A summary of public and stakeholder consultations undertaken in relation to dignity impacts.
 
 ### Section 59: Review and Publication of DIAs
 
@@ -220,13 +220,13 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (3) Regulations establishing criteria for scoring Dignity Impact Assessments under subsection (2) shall ensure that such criteria are:
 
-(4) Publicly accessible and transparent; and
+    (a) Publicly accessible and transparent; and
 
-(2) Developed in consultation with the Dignity Directorate, the Foundation Commission, the National Council for Reconciliation, and other relevant stakeholders such as vulnerable groups as detailed under section 58 subsection (1)(i).
+    (b) Developed in consultation with the Dignity Directorate, the Foundation Commission, the National Council for Reconciliation, and other relevant stakeholders such as vulnerable groups as detailed under section 58 subsection (1)(i).
 
-(3) The Dignity Directorate shall provide its findings and recommendations to the relevant Minister and to the parliamentary committee responsible for the proposed measure.
+(4) The Dignity Directorate shall provide its findings and recommendations to the relevant Minister and to the parliamentary committee responsible for the proposed measure.
 
-(4) No new federal budget line or legislation may proceed to final parliamentary vote without a DIA clearance from the Dignity Directorate.
+(5) No new federal budget line or legislation may proceed to final parliamentary vote without a DIA clearance from the Dignity Directorate.
 
 ### Section 60: Establishment of the Dignity Evaluation Framework
 
@@ -236,23 +236,23 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (3) Minimum required scores shall be established by regulation for specific sectors including, but not limited to, the following:
 
-(4) Housing: 85+;
+    (a) Housing: 85+;
 
-(2) Income: 85+;
+    (b) Income: 85+;
 
-(3) Food Security: 85+; and
+    (c) Food Security: 85+; and
 
-(4) Digital Access: 85+.
+    (d) Digital Access: 85+.
 
-(5) The DEF shall include specific dignity benchmarks tailored for diverse communities, including rural, urban, northern, and Indigenous communities, recognizing their unique contexts and needs.
+(4) The DEF shall include specific dignity benchmarks tailored for diverse communities, including rural, urban, northern, and Indigenous communities, recognizing their unique contexts and needs.
 
-(6) Programs and services that fail to meet the minimum required scores under the DEF shall be subject to mandatory review and corrective action plans as prescribed by regulations.
+(5) Programs and services that fail to meet the minimum required scores under the DEF shall be subject to mandatory review and corrective action plans as prescribed by regulations.
 
-(7) Regulations prescribing mandatory review and corrective action plans under subsection (5) shall:
+(6) Regulations prescribing mandatory review and corrective action plans under subsection (5) shall:
 
-(8) Establish clear, publicly accessible timelines for the development, public disclosure, and implementation of such plans; and
+    (a) Establish clear, publicly accessible timelines for the development, public disclosure, and implementation of such plans; and
 
-(2) Require that such plans identify specific remedial actions, responsible parties, measurable targets, and resource allocations to identify and address deficiencies and achieve compliance with minimum dignity scores.
+    (b) Require that such plans identify specific remedial actions, responsible parties, measurable targets, and resource allocations to identify and address deficiencies and achieve compliance with minimum dignity scores.
 
 ### Section 61: Public Reporting and Accountability of the DEF
 
@@ -260,7 +260,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (2) The results of the DEF evaluations shall inform parliamentary oversight, budget allocations, and the continuous improvement of federal programs and services.
 
-## Title IV: Economic Dignity \- The Dignity Dividend
+## Title IV: Economic Dignity - The Dignity Dividend
 
 ### Section 62: Establishment of the Dignity Dividend
 
@@ -290,17 +290,17 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (2) The Child Dignity Dividend shall:
 
-(3) Provide a monthly payment of no less than $500 CAD, indexed to inflation as detailed in this Title, for each child in Canada starting from the month of their birth until the month of their eighteenth birthday;
+    (a) Provide a monthly payment of no less than $500 CAD, indexed to inflation as detailed in this Title, for each child in Canada starting from the month of their birth until the month of their eighteenth birthday;
 
-(2) Be universal and not subject to any income testing;
+    (b) Be universal and not subject to any income testing;
 
-(3) Be administered by the Canada Revenue Agency;
+    (c) Be administered by the Canada Revenue Agency;
 
-(4) Be resourced through the National Renewal Fund, just as the adult Dignity Dividend; and
+    (d) Be resourced through the National Renewal Fund, just as the adult Dignity Dividend; and
 
-(5) Be distributed monthly to the legal parent or guardian primarily in charge of the child’s care and best interests, up until the month of their child’s eighteenth birthday.
+    (e) Be distributed monthly to the legal parent or guardian primarily in charge of the child’s care and best interests, up until the month of their child’s eighteenth birthday.
 
-(6) Upon the first of the following month past an individual’s eighteenth birthday, their eligibility for the Child Dignity Dividend shall cease, and they shall automatically be eligible for the Dignity Dividend program as established in this Title.
+(3) Upon the first of the following month past an individual’s eighteenth birthday, their eligibility for the Child Dignity Dividend shall cease, and they shall automatically be eligible for the Dignity Dividend program as established in this Title.
 
 ### Section 65: Legal Framework for the Dignity Dividend
 
@@ -322,7 +322,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (6) The Governor in Council may make regulations prescribing the method of indexation and rounding for the purposes of this section, consistent with subsections (1) to (5).
 
-## Title V: Community Dignity \- Dignity Hubs
+## Title V: Community Dignity - Dignity Hubs
 
 ### Section 67: Establishment of Dignity Hubs
 
@@ -338,19 +338,19 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (1) Each Dignity Hub shall offer a range of services, as possible by location, designed to address the foundational conditions of flourishing, including but not limited to:
 
-(2) Access to clothing and essential supplies like toiletries;
+    (a) Access to clothing and essential supplies like toiletries;
 
-(2) Food access and preparation support, including connections to local food groups, co-ops, food banks, and Century Grocery locations;
+    (b) Food access and preparation support, including connections to local food groups, co-ops, food banks, and Century Grocery locations;
 
-(3) Electronics and mobile device repair services;
+    (c) Electronics and mobile device repair services;
 
-(4) Translation of, and assistance with, government or other institutional forms or applications, such as housing or utility aid, recognizing the complexities of such documents and the necessity to avoid mistakes;
+    (d) Translation of, and assistance with, government or other institutional forms or applications, such as housing or utility aid, recognizing the complexities of such documents and the necessity to avoid mistakes;
 
-(5) Access to public digital infrastructure including Aurora, Guardian, and @canadapost.ca emails, as well as digital literacy supports;
+    (e) Access to public digital infrastructure including Aurora, Guardian, and @canadapost.ca emails, as well as digital literacy supports;
 
-(6) Connections to health and wellness resources, including mental health supports; and
+    (f) Connections to health and wellness resources, including mental health supports; and
 
-(7) Referrals to other federal, provincial, territorial, or local services.
+    (g) Referrals to other federal, provincial, territorial, or local services.
 
 ### Section 69: Staffing and Operation of Dignity Hubs
 
@@ -372,7 +372,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (5) The Dignity Directorate shall regularly review and adapt the services and operations of Dignity Hubs based on community needs, feedback loops from citizens and staff, and comments collected, with consent, through Aurora.
 
-## Title VI: Dignity in Public Safety \- Policing Reform
+## Title VI: Dignity in Public Safety - Policing Reform
 
 ### Section 71: Affirmation of Principles
 
@@ -400,7 +400,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (3) There is hereby mandated a comprehensive review to be taken by the Royal Canadian Mounted Police on each of their services and areas of expertise.
 
-(4) The review set forth in subsection (3) above shall be submitted to the Dignity Directorate for review and subsequent binding recommendation on how to unbundle these areas of expertise to ensure that the appropriate public service meet the specific need (e.g., mental health crises are responded to by unarmed mental health professionals rather than armed peace officers as primary response.
+(4) The review set forth in subsection (3) above shall be submitted to the Dignity Directorate for review and subsequent binding recommendation on how to unbundle these areas of expertise to ensure that the appropriate public service meet the specific need (e.g., mental health crises are responded to by unarmed mental health professionals rather than armed peace officers as primary response).
 
 ### Section 74: Interprovincial Partnership
 
@@ -416,7 +416,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (4) For greater certainty, access to the data collected under this section within the Public Data Trust shall be subject to heightened ethics and security review process administered by the Data Ethics Board, ensuring that any proposed research serves the public interest and upholds the dignity of the individuals and communities represented in the data.
 
-## Title VII: Upholding Dignity \- Enforcement and Remedies
+## Title VII: Upholding Dignity - Enforcement and Remedies
 
 ### Section 76: Enforcement and Remedies
 
@@ -426,13 +426,13 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (3) A court may grant such remedies as it considers appropriate and just in the circumstances, including:
 
-(4) A declaration of infringement;
+    (a) A declaration of infringement;
 
-(2) An order requiring a federal entity to cease an infringing act or to take positive steps to fulfill the right;
+    (b) An order requiring a federal entity to cease an infringing act or to take positive steps to fulfill the right;
 
-(3) A structural order, including timelines, to ensure a systemic compliance; and
+    (c) A structural order, including timelines, to ensure a systemic compliance; and
 
-(4) Monetary compensation for loss or injury suffered.
+    (d) Monetary compensation for loss or injury suffered.
 
 ### Section 77: Right of Action and Remedies
 
@@ -440,27 +440,26 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (2) A person or organization may commence a proceeding in the public interest where:
 
-(3) there is serious justiciable issue;
+    (a) there is serious justiciable issue;
 
-(2) The claimant has a genuine interest; and
+    (b) The claimant has a genuine interest; and
 
-(3) The proceeding is a reasonable and effective means to bring the issue before the court.
+    (c) The proceeding is a reasonable and effective means to bring the issue before the court.
 
-(4) The standard of review shall be thus:
+(3) The standard of review shall be thus:
 
-(5) For statutory entitlements (e.g., eligibility and payment of the Dignity Dividend): the issue is compliance; and
+    (a) For statutory entitlements (e.g., eligibility and payment of the Dignity Dividend): the issue is compliance; and
 
-(2) For programmatic obligations (e.g., taking reasonable measures to progressively realize access/coverage targets): the issue is reasonableness having regard to available resources, equality, non-discrimination, and non-retrogression.
+    (b) For programmatic obligations (e.g., taking reasonable measures to progressively realize access/coverage targets): the issue is reasonableness having regard to available resources, equality, non-discrimination, and non-retrogression.
 
-(3) Regulations made by the Governor in Council, may define minimum core standards for each right or program; failure to meet minimum core obligations without compelling justification is presumptively unreasonable.
+(4) Regulations made by the Governor in Council, may define minimum core standards for each right or program; failure to meet minimum core obligations without compelling justification is presumptively unreasonable.
 
-(4) The court may grant declaratory relief, mandamus, prohibitions, and structural orders, including timelines, reporting, and supervisory jurisdiction. Monetary damages are limited to amounts wrongfully withheld under a statutory entitlement and costs.
+(5) The court may grant declaratory relief, mandamus, prohibitions, and structural orders, including timelines, reporting, and supervisory jurisdiction. Monetary damages are limited to amounts wrongfully withheld under a statutory entitlement and costs.
 
-(5) Once a claimant shows a prima facie breach, the onus shifts to the responding authority to show reasonableness and resource justification.
+(6) Once a claimant shows a prima facie breach, the onus shifts to the responding authority to show reasonableness and resource justification.
 
-(6) Applications respecting ongoing income or health-and-safety entitlements must be heard on an expedited based; interim relief may be ordered to prevent irreparable harm.
+(7) Applications respecting ongoing income or health-and-safety entitlements must be heard on an expedited based; interim relief may be ordered to prevent irreparable harm.
 
-(7) This section is in addition to any right to seek judicial review or a Charter remedy.
+(8) This section is in addition to any right to seek judicial review or a Charter remedy.
 
-(8) This Part shall be interpreted consistently with sections of the Constitution Act, 1982, and does not abrogate or derogate from Indigenous, Aboriginal, or Treaty Rights.
-
+(9) This Part shall be interpreted consistently with sections of the Constitution Act, 1982, and does not abrogate or derogate from Indigenous, Aboriginal, or Treaty Rights.
