@@ -20,33 +20,33 @@ In this Act, unless the context otherwise requires:
 
 (2) ‘21st Century Neighbourhoods’ means a community-scale development model established or supported under this Act that embodies the principles of accessibility, sustainability, care, and civic participation. 21st Century Neighbourhoods are characterized by:
 
-   (a) Mixed-income, affordable housing, including but not limited to Century Homes;
+    (a) Mixed-income, affordable housing, including but not limited to Century Homes;
 
-(1) Proximity-based access to essential services such as healthcare, education, elder and child care, transit, digital infrastructure, and food security;
+    (b) Proximity-based access to essential services such as healthcare, education, elder and child care, transit, digital infrastructure, and food security;
 
-(2) Integration of ecological design, active mobility (e.g., walking, biking), and climate resilience features such as green roofs, community gardens, and low-to-zero emission transit;
+    (c) Integration of ecological design, active mobility (e.g., walking, biking), and climate resilience features such as green roofs, community gardens, and low-to-zero emission transit;
 
-(3) Dedicated civic and cultural spaces designed to foster community connection, participatory democracy, and inclusive public life; and
+    (e) Dedicated civic and cultural spaces designed to foster community connection, participatory democracy, and inclusive public life; and
 
-(4) Embedded digital and social infrastructure to support Codeshare Civics, feedback loops, and real-time participatory governance.
+    (f) Embedded digital and social infrastructure to support Codeshare Civics, feedback loops, and real-time participatory governance.
 
-(5) ‘94 Calls to Action’ means the 94 Calls to Action made by Canada’s Truth and Reconciliation Commission.
+(3) ‘94 Calls to Action’ means the 94 Calls to Action made by Canada’s Truth and Reconciliation Commission.
 
-(6) ‘Adequate Housing’ means housing that provides more than just a roof and four walls. It includes at minimum:
+(4) ‘Adequate Housing’ means housing that provides more than just a roof and four walls. It includes at minimum:
 
-(7) Availability of services, materials, facilities, and infrastructure, including safe, clean drinking water, adequate sanitation, electricity and energy for cooking, heating, lighting, electronics use, and means of food storage;
+    (a) Availability of services, materials, facilities, and infrastructure, including safe, clean drinking water, adequate sanitation, electricity and energy for cooking, heating, lighting, electronics use, and means of food storage;
 
-(2) Affordability, ensuring that housing costs do not compromise the attainment of other basic needs, meaning housing costs (including bills) do not exceed 35% of an individual’s monthly income;
+    (b) Affordability, ensuring that housing costs do not compromise the attainment of other basic needs, meaning housing costs (including bills) do not exceed 35% of an individual’s monthly income;
 
-(3) Security of tenure, affording legal protection against forced eviction, harassment, and other threats;
+    (c) Security of tenure, affording legal protection against forced eviction, harassment, and other threats;
 
-(4) Habitability, providing for physical safety, comfort, adequate space, and protection against the cold, damp, heat, rain, wind, or other threats to health or structural hazards;
+    (d) Habitability, providing for physical safety, comfort, adequate space, and protection against the cold, damp, heat, rain, wind, or other threats to health or structural hazards;
 
-(5) Accessibility, taking into account the specific needs of disadvantaged and marginalized groups;
+    (e) Accessibility, taking into account the specific needs of disadvantaged and marginalized groups;
 
-(6) Location, allowing access to nearby employment options, healthcare services, schools, child care centres, and other social facilities, and not being built on or in immediate proximity to polluted or sacred sites; and
+    (f) Location, allowing access to nearby employment options, healthcare services, schools, child care centres, and other social facilities, and not being built on or in immediate proximity to polluted or sacred sites; and
 
-(7) Cultural Adequacy, respecting and expressing cultural identities and ways of life.
+    (g) Cultural Adequacy, respecting and expressing cultural identities and ways of life.
 
 (8) ‘ActivityPub’ means an open, decentralized protocol for social networking developed by the World Wide Web Consortium (W3C). It enables interoperable communications between independent platforms and services, allowing users on different systems to follow, share, react to, and interact with one another across the open web. ActivityPub uses a federated model, where data and content remain distributed rather than centralized, and supports privacy, portability, and user agency. Under this Act, the Aurora civic platform shall be built using ActivityPub to ensure public interoperability, digital sovereignty, and citizen-controlled social infrastructure.
 
