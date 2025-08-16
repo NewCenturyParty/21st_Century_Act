@@ -32,67 +32,67 @@ Our home, our responsibility.
 
 (1) The CEEA may, for the purposes of fulfilling its mandate, have such powers, and functions as the following:
 
-(2) Acquire, hold, lease, manage, and dispose of real and personal property;
+    (a) Acquire, hold, lease, manage, and dispose of real and personal property;
 
-(2) Enter into contracts, agreements, joint ventures, memoranda of understanding, or other arrangements with any person, entity, level of government including Indigenous governing bodies, co-operatives, or non-profit organizations in Canada or elsewhere, related to climate, the environment, or environmental economics;
+    (b) Enter into contracts, agreements, joint ventures, memoranda of understanding, or other arrangements with any person, entity, level of government including Indigenous governing bodies, co-operatives, or non-profit organizations in Canada or elsewhere, related to climate, the environment, or environmental economics;
 
-(3) Enter into agreements with provincial, territorial, and Indigenous governing bodies to facilitate and coordinate implementation of the national standards and objectives set forth in this Title, including through the provisions of conditional federal funding, technical support, and access to the resources of the CEEA;
+    (c) Enter into agreements with provincial, territorial, and Indigenous governing bodies to facilitate and coordinate implementation of the national standards and objectives set forth in this Title, including through the provisions of conditional federal funding, technical support, and access to the resources of the CEEA;
 
-(4) Make regulations, subject to the Statutory Instruments Act and other applicable requirements, such as national targets for the private sector and Parliamentary oversight, respecting:
+    (d) Make regulations, subject to the Statutory Instruments Act and other applicable requirements, such as national targets for the private sector and Parliamentary oversight, respecting:
 
-    (a) The significant reduction, elimination, and eventual reversal, of greenhouse gas emissions.
+        (i) The significant reduction, elimination, and eventual reversal, of greenhouse gas emissions.
 
-    (b) The evaluation of natural capital and its related natural ecosystem economics;
+        (ii) The evaluation of natural capital and its related natural ecosystem economics;
 
-    (c) The restoration of degraded ecosystems, including wetlands, forests, and grasslands, to enhance biodiversity and ecological resilience;
+        (iii) The restoration of degraded ecosystems, including wetlands, forests, and grasslands, to enhance biodiversity and ecological resilience;
 
-    (d) The expansion of renewable energy capacity and associated grid infrastructure, including both local and regional power generation and storage; and
+        (iv) The expansion of renewable energy capacity and associated grid infrastructure, including both local and regional power generation and storage; and
 
-    (e) The development of and implementation of green infrastructure solutions in urban and rural areas;
+        (v) The development of and implementation of green infrastructure solutions in urban and rural areas;
 
-(5) Create binding targets and timelines for the enactment of environmental policy;
+    (e) Create binding targets and timelines for the enactment of environmental policy;
 
-(6) Conduct investigations, and inquiries into contraventions of National Environmental Standards, as detailed herein;
+    (f) Conduct investigations, and inquiries into contraventions of National Environmental Standards, as detailed herein;
 
-(7) Conduct public promotion campaigns promoting national understanding of environmental costs and economics, with the integration of environment and economic well-being;
+    (g) Conduct public promotion campaigns promoting national understanding of environmental costs and economics, with the integration of environment and economic well-being;
 
-(8) Collaborate with other government bodies such as Statistics Canada to formulate specific climate economic metrics;
+    (h) Collaborate with other government bodies such as Statistics Canada to formulate specific climate economic metrics;
 
-(9) Create, administer, and review submitted Environmental Impact Assessments, otherwise known as EIAs, and publicly make recommendations for improvements, with feedback on each EIA;
+    (i) Create, administer, and review submitted Environmental Impact Assessments, otherwise known as EIAs, and publicly make recommendations for improvements, with feedback on each EIA;
 
-(10) Issue orders to persons or entities involved in contraventions of the National Environmental Standards, as detailed herein;
+    (j) Issue orders to persons or entities involved in contraventions of the National Environmental Standards, as detailed herein;
 
-(11) Impose Administrative Monetary Penalties for contraventions of this Act, or regulations made by the CEEA, in accordance with the scheme to be established by regulations, which shall include provisions for due process, rights of appeal, and criteria determining penalty amounts that are strictly percentages of annual income or market value of the infringing entity;
+    (k) Impose Administrative Monetary Penalties for contraventions of this Act, or regulations made by the CEEA, in accordance with the scheme to be established by regulations, which shall include provisions for due process, rights of appeal, and criteria determining penalty amounts that are strictly percentages of annual income or market value of the infringing entity;
 
-(12) Conduct and support research, innovation, and skills development related to the environment, environmental economics, and new sustainability tools or metrics;
+    (l) Conduct and support research, innovation, and skills development related to the environment, environmental economics, and new sustainability tools or metrics;
 
-(13) Conduct research and evaluations to establish a comprehensive and legally defensible valuation of the damages caused by pollution and its resulting ecological degradation, thereby creating a formal account of the unrecorded ecological debt, currently borne by the nation;
+    (m) Conduct research and evaluations to establish a comprehensive and legally defensible valuation of the damages caused by pollution and its resulting ecological degradation, thereby creating a formal account of the unrecorded ecological debt, currently borne by the nation;
 
-(14) Employ such officers and employees as are necessary for the proper conduct of its work, in accordance with the Public Service Employment Act;
+    (n) Employ such officers and employees as are necessary for the proper conduct of its work, in accordance with the Public Service Employment Act;
 
-(15) Make by-laws respecting the administration of its affairs; and
+    (o) Make by-laws respecting the administration of its affairs; and
 
-(16) Do all such other things incidental or conducive to the attainment of its mandate and exercise of its powers.
+    (p) Do all such other things incidental or conducive to the attainment of its mandate and exercise of its powers.
 
 ### Section 331: Core Programs
 
 (1) The CEEA, in fulfilling its mandate, shall implement the following core programs:
 
-(2) The National Environmental Standards program, which shall establish national environmental standards that are regularly reviewed, progressively strengthened, and legally binding. The standards shall be prescribed in regulation, and subject to ongoing review and change, but must be bold, ambitious, science-based, data-backed, publicly reported, easily accessible, be subject to independent review, and must include the following:
+    (a) The National Environmental Standards program, which shall establish national environmental standards that are regularly reviewed, progressively strengthened, and legally binding. The standards shall be prescribed in regulation, and subject to ongoing review and change, but must be bold, ambitious, science-based, data-backed, publicly reported, easily accessible, be subject to independent review, and must include the following:
 
-    (a) Targets for the steep reduction, eventual elimination and recapture of greenhouse gases.
+        (i) Targets for the steep reduction, eventual elimination and recapture of greenhouse gases.
 
-    (b) Targets for the expansion of renewable or clean energy such as wind, solar, and nuclear;
+        (ii) Targets for the expansion of renewable or clean energy such as wind, solar, and nuclear;
 
-    (c) Targets for the restoration and rewilding of degraded ecosystems, including wetlands, forests, and grasslands, enhancing biodiversity and ecological resilience;
+        (iii) Targets for the restoration and rewilding of degraded ecosystems, including wetlands, forests, and grasslands, enhancing biodiversity and ecological resilience;
 
-    (d) Targets for green infrastructure development and deployment, particularly in urban and rural areas.
+        (iv) Targets for green infrastructure development and deployment, particularly in urban and rural areas.
 
-    (e) Provisions for monitoring compliance, and strict penalties for violations.
+        (v) Provisions for monitoring compliance, and strict penalties for violations.
 
-    (f) The incorporation of traditional Indigenous environmental practices and knowledge, particularly regarding land restoration, wildfire management, agricultural practices, and resource management.
+        (vi) The incorporation of traditional Indigenous environmental practices and knowledge, particularly regarding land restoration, wildfire management, agricultural practices, and resource management.
 
-(2) The Environmental Pricing program, which shall legally reframe ecological externalities as unrecorded debts. The program will, after conducting rigorous research and evaluations, establish a price for the damages caused by pollution, down to the dollar per molecule of greenhouse gas, and create the mechanisms to assign these costs as formal liability on the balance sheets of polluting entities.
+    (b) The Environmental Pricing program, which shall legally reframe ecological externalities as unrecorded debts. The program will, after conducting rigorous research and evaluations, establish a price for the damages caused by pollution, down to the dollar per molecule of greenhouse gas, and create the mechanisms to assign these costs as formal liability on the balance sheets of polluting entities.
 
 ### Section 332: Governance
 
@@ -100,13 +100,13 @@ Our home, our responsibility.
 
 (2) The Chief Environmental Economist shall be supported by, and required to consult with, an Environmental Economics Council, who shall not govern, but provide expert advice and recommendations to the Chief Environmental Economist, which must be made publicly accessible on git.canada.ca. Should the Chief Environmental Economist choose not to follow the recommendation given by the Environmental Economics Council, they must give a written justification as to why, also published on git.canada.ca, which is subject to Parliamentary review.
 
-(3) The Environmental Economics Council shall be composed of the following 21 representatives, in rotating five-year terms, from three distinct stakeholder groups.
+(3) The Environmental Economics Council shall be composed of the following 21 representatives, in rotating five-year terms, from three distinct stakeholder groups:
 
-(4) Seven representatives chosen by the Governor in Council, which must include experts in environment and economic policy, risk assessment and management, and environmental science;
+    (a) Seven representatives chosen by the Governor in Council, which must include experts in environment and economic policy, risk assessment and management, and environmental science;
 
-(2) Seven representatives chosen by civic lottery, as defined under section 3 of this Act; and
+    (b) Seven representatives chosen by civic lottery, as defined under section 3 of this Act; and
 
-(3) Seven representatives chosen by Indigenous governing bodies, such as the Assembly of First Nations, Inuit Tapiriit Kanatami, and the Métis National Council.
+    (c) Seven representatives chosen by Indigenous governing bodies, such as the Assembly of First Nations, Inuit Tapiriit Kanatami, and the Métis National Council.
 
 (4) The Environmental Economics Council shall be supported by the Environmental Economics Expertise Panel, which shall be composed of experts in education, environmental and economic policy, risk assessment and management, and environmental science, to give expert and timely advice to the Environmental and Economics Council in such a way that ensures even a layperson chosen by civic lottery shall be able to learn and participate.
 
@@ -160,33 +160,35 @@ Our home, our responsibility.
 
 (2) Without limiting the generality of subsection (1), the ARA may, for the purposes of fulfilling its mandate, have such powers and functions as the following:
 
-(3) Acquire, hold, lease, develop, manage, and dispose of real and personal property;
+    (a) Acquire, hold, lease, develop, manage, and dispose of real and personal property;
 
-(2) Enter into contracts, agreements, joint ventures, memoranda of understanding, or other arrangements with any person, entity, level of government including Indigenous governing bodies, co-operative, or non-profit organizations in Canada or elsewhere, related to Arctic development, climate science, and sovereignty;
+    (b) Enter into contracts, agreements, joint ventures, memoranda of understanding, or other arrangements with any person, entity, level of government including Indigenous governing bodies, co-operative, or non-profit organizations in Canada or elsewhere, related to Arctic development, climate science, and sovereignty;
 
-(3) Develop, maintain, and implement climate adaptation strategies specific to the Arctic, including infrastructure resilience, and community preparedness;
+    (c) Develop, maintain, and implement climate adaptation strategies specific to the Arctic, including infrastructure resilience, and community preparedness;
 
-(4) Ensure the free, prior, and informed consent of any Indigenous population of the Arctic that would be affected by its work, ensuring there are co-developed programs with Arctic communities that enhance local sovereignty;
+    (d) Ensure the free, prior, and informed consent of any Indigenous population of the Arctic that would be affected by its work, ensuring there are co-developed programs with Arctic communities that enhance local sovereignty;
 
-(5) Recruit and train Canadian Century Corps Cadets from across all Corps to support Arctic sovereignty, and climate adaptation and monitoring work;
+    (e) Recruit and train Canadian Century Corps Cadets from across all Corps to support Arctic sovereignty, and climate adaptation and monitoring work;
 
-(6) Ensure all programs or initiatives are compliant with Dignity Impact Assessments and Environmental Impact Assessments;
+    (f) Ensure all programs or initiatives are compliant with Dignity Impact Assessments and Environmental Impact Assessments;
 
-(7) Conduct and support the continuous research, innovation, and skills development related to sustainable Arctic development, climate change and its management, or other topics related to its mandate, ensuring collaboration and data gathering from Indigenous knowledge keepers;
+    (g) Conduct and support the continuous research, innovation, and skills development related to sustainable Arctic development, climate change and its management, or other topics related to its mandate, ensuring collaboration and data gathering from Indigenous knowledge keepers;
 
-(8) Employ such officers and employees as are necessary for the proper conduct of its work, consistent with the principles of Loop Governance, as detailed under Part II, Title I of this Act;
+    (h) Employ such officers and employees as are necessary for the proper conduct of its work, consistent with the principles of Loop Governance, as detailed under Part II, Title I of this Act;
 
-(9) Make by-laws respecting the administration of its affairs; and
+    (i) Make by-laws respecting the administration of its affairs; and
 
-(10) Do all such other things incidental or conducive to the attainment of its mandate and exercise of its powers.
+    (j) Do all such other things incidental or conducive to the attainment of its mandate and exercise of its powers.
 
 ### Section 338: Core Programs
 
-(1) The Arctic Sovereignty and Environmental Monitoring Program, which shall ensure the absolute clarity and enforcement of Canada’s borders in the Arctic through the regular monitoring of the region, watching not only for sovereignty or border incursions, but the ongoing changes to the Arctic environment from shifting and melting ice, forest fire observation and tracking, and other innovative features grown out of the partnership and co-development with Arctic communities.
+(1) The ARA, in fulfilling its mandate, shall implement the following core programs:
 
-(2) The Northern Infrastructure program, which shall bring 21st Century infrastructure to the northern regions and territories of Canada, through deep partnerships with the Century Bank, Canadian Century Corps, Century Homes, CenTel, Century Energy, Century Grocery, the NCDA, and other federal and local institutions and entities, to bring things like local food security, local high-speed internet, and workers to help build.
+    (a) The Arctic Sovereignty and Environmental Monitoring Program, which shall ensure the absolute clarity and enforcement of Canada’s borders in the Arctic through the regular monitoring of the region, watching not only for sovereignty or border incursions, but the ongoing changes to the Arctic environment from shifting and melting ice, forest fire observation and tracking, and other innovative features grown out of the partnership and co-development with Arctic communities.
 
-(3) The Northern Cultural Resilience program, which shall provide grants, in partnership with Century Bank, for community-led projects that focus on food security, cultural preservation, language revisitation and sustainable economic development.
+    (b) The Northern Infrastructure program, which shall bring 21st Century infrastructure to the northern regions and territories of Canada, through deep partnerships with the Century Bank, Canadian Century Corps, Century Homes, CenTel, Century Energy, Century Grocery, the NCDA, and other federal and local institutions and entities, to bring things like local food security, local high-speed internet, and workers to help build.
+
+    (c) The Northern Cultural Resilience program, which shall provide grants, in partnership with Century Bank, for community-led projects that focus on food security, cultural preservation, language revitalization and sustainable economic development.
 
 ### Section 339: Governance
 
@@ -194,31 +196,31 @@ Our home, our responsibility.
 
 (2) The ARA’s Circle of Circles shall be known as the Arctic Circle of Circles, and shall be composed of the following five peer Circle Groups:
 
-(3) The Arctic Stewardship Circle Group;
+    (a) The Arctic Stewardship Circle Group;
 
-(2) The Climate Monitoring and Science Circle Group;
+    (b) The Climate Monitoring and Science Circle Group;
 
-(3) The Arctic Communities Circle Group;
+    (c) The Arctic Communities Circle Group;
 
-(4) The Adaptation Circle Group; and
+    (d) The Adaptation Circle Group; and
 
-(5) The Staffing and Logistics Circle Group.
+    (e) The Staffing and Logistics Circle Group.
 
-(6) Membership within each peer Circle Group shall reflect a balance of regional expertise, lived experience, and scientific, technical, logistical, or other relevant skills groups.
+(3) Membership within each peer Circle Group shall reflect a balance of regional expertise, lived experience, and scientific, technical, logistical, or other relevant skills groups.
 
-(7) Each peer Circle Group shall include Indigenous representation as a standing requirement.
+(4) Each peer Circle Group shall include Indigenous representation as a standing requirement.
 
-(8) The ARA’s Shared Wisdom Council shall be composed of the following:
+(5) The ARA’s Shared Wisdom Council shall be composed of the following:
 
-(9) One delegate from each of the five peer Circle Groups;
+    (a) One delegate from each of the five peer Circle Groups;
 
-(2) One representative from each of the Premiers’ offices of the Yukon, Northwest Territories, and Nunavut;
+    (b) One representative from each of the Premiers’ offices of the Yukon, Northwest Territories, and Nunavut;
 
-(3) One representative citizen residing in the territories of Canada, chosen by civic lottery;
+    (c) One representative citizen residing in the territories of Canada, chosen by civic lottery;
 
-(4) One representative Arctic specialized climatologist; and
+    (d) One representative Arctic specialized climatologist; and
 
-(5) One representative from the Parliament of Canada.
+    (e) One representative from the Parliament of Canada.
 
 ### Section 340: Accountability
 
@@ -226,7 +228,7 @@ Our home, our responsibility.
 
 (2) The ARA shall prepare a corporate, or Loop Governance equivalent, plan and operational and capital budget for the fiscal year, to be submitted to the responsible Minister for the approval by the Treasury Board, in accordance with the Financial Administration Act.
 
-(3) The ARA shall submit and annual report to the responsible Minister who shall table it before Parliament. The report shall include a comprehensive account of the ARA’s operations and performance against its mandate.
+(3) The ARA shall submit an annual report to the responsible Minister who shall table it before Parliament. The report shall include a comprehensive account of the ARA’s operations and performance against its mandate.
 
 ### Section 341: Finances
 
@@ -260,43 +262,45 @@ Our home, our responsibility.
 
 (2) Without limiting the generality of subsection (1), Century Energy may, for the purposes of fulfilling its mandate, have such powers and functions as the following:
 
-(3) Acquire, hold, lease, develop, manage, and dispose of real and personal property;
+    (a) Acquire, hold, lease, develop, manage, and dispose of real and personal property;
 
-(2) Enter into contracts, agreements, joint ventures, memoranda of understanding or other agreements with any person, entity, level of government including Indigenous governing bodies, co-operative, or non-profit organization in Canada or elsewhere related to energy, and energy production;
+    (b) Enter into contracts, agreements, joint ventures, memoranda of understanding or other agreements with any person, entity, level of government including Indigenous governing bodies, co-operative, or non-profit organization in Canada or elsewhere related to energy, and energy production;
 
-(3) Enter into agreements with provincial, territorial, and Indigenous governing bodies to facilitate and coordinate implementation of the national standards and objectives set forth in this Title, including through the provisions of conditional federal funding, technical support, and access to the resources of Century Energy;
+    (c) Enter into agreements with provincial, territorial, and Indigenous governing bodies to facilitate and coordinate implementation of the national standards and objectives set forth in this Title, including through the provisions of conditional federal funding, technical support, and access to the resources of Century Energy;
 
-(4) Design, construct, commission, and oversee the development of new clean and renewable energy projects and related infrastructure;
+    (d) Design, construct, commission, and oversee the development of new clean and renewable energy projects and related infrastructure;
 
-(5) Establish the sale of wholesale power and energy, sold directly to the provinces and territories’ provincial energy and power providers, and never to strictly for-profit entities, that shall be priced based on type of energy and its generation source, with fossil fuels being priced at higher rates, which must increase at an annual rate until completely sunsetted;
+    (e) Establish the sale of wholesale power and energy, sold directly to the provinces and territories’ provincial energy and power providers, and never to strictly for-profit entities, that shall be priced based on type of energy and its generation source, with fossil fuels being priced at higher rates, which must increase at an annual rate until completely sunsetted;
 
-(6) Provide or facilitate access to financing, grants, loans, loan agreements, and other forms of financial assistance for energy projects, in collaboration with Century Bank;
+    (f) Provide or facilitate access to financing, grants, loans, loan agreements, and other forms of financial assistance for energy projects, in collaboration with Century Bank;
 
-(7) Sunset the operational use of fossil fuels within a prescribed period of 25 years after the coming into force of this Act;
+    (g) Sunset the operational use of fossil fuels within a prescribed period of 25 years after the coming into force of this Act;
 
-(8) Facilitate and oversee the Fossil Fuel Transition Authority, as detailed herein;
+    (h) Facilitate and oversee the Fossil Fuel Transition Authority, as detailed herein;
 
-(9) Facilitate and oversee the Clean Baseload power program, as detailed herein;
+    (i) Facilitate and oversee the Clean Baseload power program, as detailed herein;
 
-(10) Facilitate and oversee the Clean Federation Initiative, as detailed herein;
+    (j) Facilitate and oversee the Clean Federation Initiative, as detailed herein;
 
-(11) Conduct and support research, innovation and skills development related to sustainable, resilient energy production;
+    (k) Conduct and support research, innovation and skills development related to sustainable, resilient energy production;
 
-(12) Employ such officers and employees as are necessary for the proper conduct of its work, consistent with the principles of Loop Governance, as set out in Part II, Title I of this Act;
+    (l) Employ such officers and employees as are necessary for the proper conduct of its work, consistent with the principles of Loop Governance, as set out in Part II, Title I of this Act;
 
-(13) Make by-laws respecting the administration of its affairs; and
+    (m) Make by-laws respecting the administration of its affairs; and
 
-(14) Do all such other things incidental or conducive to the attainment of its mandate or exercise of its powers.
+    (n) Do all such other things incidental or conducive to the attainment of its mandate or exercise of its powers.
 
 ### Section 344: Core Programs
 
-(1) The Fossil Fuel Transition Authority, also known as the FFTA, which shall be a distinct arm of Century Energy with the focus on sunsetting fossil fuels entirely within the prescribed period. The FFTA shall be responsible for overseeing the selection of and transfer of assets to the federal government, and the operation of those assets for the prescribed period before sunset, with more details found in Title V of this Part.
+(1) Century Energy, in fulfilling its mandate, shall implement the following core programs:
 
-(2) The Clean Baseload Power program, which shall be a distinct arm of Century Energy, established to build clean power generation throughout the country for the exclusive use of Century Energy to sell to the provinces, with a particular focus on nuclear power generation being created for every provincial and territory, ensuring baseload power is always available throughout the country.
+    (a) The Fossil Fuel Transition Authority, also known as the FFTA, which shall be a distinct arm of Century Energy with the focus on sunsetting fossil fuels entirely within the prescribed period. The FFTA shall be responsible for overseeing the selection of and transfer of assets to the federal government, and the operation of those assets for the prescribed period before sunset, with more details found in Title V of this Part.
 
-(3) The Clean Federation Initiative program, which shall be a distinct arm of Century Energy that shall promote cooperation and partnership with the provinces in relation to clean energy generation, co-developing such generation together, ensuring each province has more than enough clean energy supply. This program shall also help build out a 21st Century clean and smart power grid that is both local and regional, allowing any power generated in Canada to be used anywhere in Canada, even between provinces.
+    (b) The Clean Baseload Power program, which shall be a distinct arm of Century Energy, established to build clean power generation throughout the country for the exclusive use of Century Energy to sell to the provinces, with a particular focus on nuclear power generation being created for every provincial and territory, ensuring baseload power is always available throughout the country.
 
-(4) Manage the Clean Energy Transition and Innovation Centre in Fort McMurray, as detailed herein.
+    (c) The Clean Federation Initiative program, which shall be a distinct arm of Century Energy that shall promote cooperation and partnership with the provinces in relation to clean energy generation, co-developing such generation together, ensuring each province has more than enough clean energy supply. This program shall also help build out a 21st Century clean and smart power grid that is both local and regional, allowing any power generated in Canada to be used anywhere in Canada, even between provinces.
+
+    (d) Manage the Clean Energy Transition and Innovation Centre in Fort McMurray, as detailed herein.
 
 ### Section 345: Just Transition
 
@@ -304,19 +308,19 @@ Our home, our responsibility.
 
 (2) Such support guaranteed by subsection (1) shall include, but not be limited to, the following:
 
-(3) Priority access to skills training and education programs, including pathways into renewable energy, ecological restoration, sustainable green infrastructure, and other sectors aligned with this Act, facilitated by the Canadian Century Corps, and other relevant agencies or education institutions;
+    (a) Priority access to skills training and education programs, including pathways into renewable energy, ecological restoration, sustainable green infrastructure, and other sectors aligned with this Act, facilitated by the Canadian Century Corps, and other relevant agencies or education institutions;
 
-(2) Tuition Vouchers, as detailed under Part VIII of this Act, for education and retraining, without needing to serve in the Canadian Century Corps;
+    (b) Tuition Vouchers, as detailed under Part VIII of this Act, for education and retraining, without needing to serve in the Canadian Century Corps;
 
-(3) Income support including an exceedingly well funded pension bridging program and relocation assistance when requested and necessary; and
+    (c) Income support including an exceedingly well funded pension bridging program and relocation assistance when requested and necessary; and
 
-(4) Mental Health and well-being support for any affected workers and their families.
+    (d) Mental Health and well-being support for any affected workers and their families.
 
-(5) A Just Transition Fund is hereby established in the accounts of Canada, capitalized by a portion of the revenues from the nationalized fossil fuel assets, parliamentary appropriations, and contributions from the Century Bank through the sale of Century Bonds.
+(3) A Just Transition Fund is hereby established in the accounts of Canada, capitalized by a portion of the revenues from the nationalized fossil fuel assets, parliamentary appropriations, and contributions from the Century Bank through the sale of Century Bonds.
 
-(6) The Just Transition Fund shall finance the measures outlined in this section.
+(4) The Just Transition Fund shall finance the measures outlined in this section.
 
-(7) The governance of this fund, prescribed by regulation, must include representation from affected workers, communities, Indigenous governing bodies, and other relevant governmental bodies.
+(5) The governance of this fund, prescribed by regulation, must include representation from affected workers, communities, Indigenous governing bodies, and other relevant governmental bodies.
 
 ### Section 346: The Fort McMurray Clean Energy Transition Centre
 
@@ -332,33 +336,33 @@ Our home, our responsibility.
 
 (1) Century Energy shall be governed in accordance with the principles of Loop Governance as set out in Part II, Title I of this Act.
 
-(2) Century Energy’s Circle of Circles shall be the known as the Energy Circle of Circles, and shall be composed of the following five peer Circle Groups’ governance, subject to review and change following consultation with relevant stakeholders:
+(2) Century Energy’s Circle of Circles shall be known as the Energy Circle of Circles, and shall be composed of the following five peer Circle Groups’ governance, subject to review and change following consultation with relevant stakeholders:
 
-(3) The Land and Title Circle Group;
+    (a) The Land and Title Circle Group;
 
-(2) The Fossil Fuel Circle Group;
+    (b) The Fossil Fuel Circle Group;
 
-(3) The Clean Energy Circle Group;
+    (c) The Clean Energy Circle Group;
 
-(4) The Clean Federation Circle Group; and
+    (d) The Clean Federation Circle Group; and
 
-(5) The Staffing and Logistics Circle Group.
+    (e) The Staffing and Logistics Circle Group.
 
-(6) Membership within each peer Circle Group shall reflect a balance of regional expertise, lived experience, and scientific, technical, logistical, and other relevant skills groups.
+(3) Membership within each peer Circle Group shall reflect a balance of regional expertise, lived experience, and scientific, technical, logistical, and other relevant skills groups.
 
-(7) Each peer Circle Group shall include Indigenous representation as a standing requirement.
+(4) Each peer Circle Group shall include Indigenous representation as a standing requirement.
 
-(8) Century Energy’s Shared Wisdom Council shall be composed of the following:
+(5) Century Energy’s Shared Wisdom Council shall be composed of the following:
 
-(9) One delegate from each of the five peer Circle Groups;
+    (a) One delegate from each of the five peer Circle Groups;
 
-(2) One representative from Parliament of Canada, chosen by the Governor in Council;
+    (b) One representative from Parliament of Canada, chosen by the Governor in Council;
 
-(3) One representative executive from relevant industry;
+    (c) One representative executive from relevant industry;
 
-(4) One representative worker from the relevant industry; and
+    (d) One representative worker from the relevant industry; and
 
-(5) One representative citizen chosen by civic lottery, as defined under section 3 of this Act.
+    (e) One representative citizen chosen by civic lottery, as defined under section 3 of this Act.
 
 ### Section 348: Accountability
 
@@ -398,9 +402,9 @@ Our home, our responsibility.
 
 (3) The final Fair Compensation Formula shall be as follows:
 
-(4) The Maximum Value of the Expropriated Entity \- The Total Damage Cost of that Entity’s Pollution or Activities to Canada’s Environment \= Total Compensation; and
+    (a) The Maximum Value of the Expropriated Entity - The Total Damage Cost of that Entity’s Pollution or Activities to Canada’s Environment = Total Compensation; and
 
-(2) Should the Total Compensation result in a negative balance, meaning the Expropriated Entity owes the Government of Canada financial compensation for damages to Canada’s environment, the Government of Canada shall offer not to pursue owed compensation if the Expropriated Entity agrees not to seek legal action regarding the expropriation.
+    (b) Should the Total Compensation result in a negative balance, meaning the Expropriated Entity owes the Government of Canada financial compensation for damages to Canada’s environment, the Government of Canada shall offer not to pursue owed compensation if the Expropriated Entity agrees not to seek legal action regarding the expropriation.
 
 ## Title VI: Adaptation and Restoration
 
@@ -436,25 +440,25 @@ Our home, our responsibility.
 
 (1) Every person who, with knowledge or being reckless as to the substantial likelihood of causing severe and either widespread or long-term environmental damage, commits an act or omission that causes such damage is guilty of an indictable offence and liable:
 
-(2) In the case of an individual, to imprisonment for a term not exceeding 25 years, or to a fine, or to both; and
+    (a) In the case of an individual, to imprisonment for a term not exceeding 25 years, or to a fine, or to both; and
 
-(2) In the case of an organization or entity, to a fine in an amount the court considers appropriate, including up to the greater of $100,000,000 or 20% of gross global revenue for its most recently completed financial year.
+    (b) In the case of an organization or entity, to a fine in an amount the court considers appropriate, including up to the greater of $100,000,000 or 20% of gross global revenue for its most recently completed financial year.
 
-(3) In addition to any penalty under subsection (1), the court may make any remedial, restitution, prohibition, or forfeiture order that is just in the circumstances, including an order to fund or perform restoration, monitoring and long-term stewardship.
+(2) In addition to any penalty under subsection (1), the court may make any remedial, restitution, prohibition, or forfeiture order that is just in the circumstances, including an order to fund or perform restoration, monitoring and long-term stewardship.
 
 ### Section 357: Sentencing Factors
 
 (1) In determining sentence, the court shall consider, among other aggravating factors, whether the offence:
 
-(2) Involved willful or reckless disregard of known risks;
+    (a) Involved willful or reckless disregard of known risks;
 
-(2) Produced harm affecting an Indigenous community, protected ecosystem, or culturally significant site;
+    (b) Produced harm affecting an Indigenous community, protected ecosystem, or culturally significant site;
 
-(3) Generated material economic benefit for the offender;
+    (c) Generated material economic benefit for the offender;
 
-(4) Impeded or frustrated restoration; and
+    (d) Impeded or frustrated restoration; and
 
-(5) Occurred in breach of an order, compliance agreement, or license condition.
+    (e) Occurred in breach of an order, compliance agreement, or license condition.
 
 ### Section 358: Proportionality and Ability to Pay
 
@@ -478,11 +482,11 @@ This offence is deemed to be committed in Canada if there is a real and substant
 
 (1) The Governor in Council may make regulations:
 
-(2) Prescribing indicators and thresholds for ‘severe’, ‘widespread’, and ‘long-term’ damage, including by reference to scientific standards;
+    (a) Prescribing indicators and thresholds for ‘severe’, ‘widespread’, and ‘long-term’ damage, including by reference to scientific standards;
 
-(2) Listing protected ecosystems or areas for the purposes of this Title; and
+    (b) Listing protected ecosystems or areas for the purposes of this Title; and
 
-(3) Prescribing evidentiary rules and defences consistent with this Title.
+    (c) Prescribing evidentiary rules and defences consistent with this Title.
 
-(4) For greater certainty, a regulation under this section does not create an offence or increase a maximum beyond that set out in this Title.
+(2) For greater certainty, a regulation under this section does not create an offence or increase a maximum beyond that set out in this Title.
 
