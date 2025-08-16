@@ -42,21 +42,20 @@ This Act serves as a foundational charter for the renewal of Canada, and as a pr
 
 ## Preamble
 
-WHEREAS Canada, alongside the entire world, faces an unprecedented era of Polycrisis, where what was once thought immutable begins to show signs of collapse. Ecological Collapse. Economic Collapse. Democratic Institution Collapse. Culminating in Societal Collapse.
+WHEREAS Canada, alongside the entire world, faces an unprecedented era of Polycrisis, where what was once thought immutable begins to show signs of collapse. Ecological Collapse. Economic Collapse. Democratic Institution Collapse. All of which culminates in Societal Collapse.
 
 AND WHEREAS such collapse is evidenced by the accelerating degradation of Earth’s biosphere and unravelling of planetary life-support systems; the erosion of trust in democratic institutions, fuelled by polarization and disinformation, the widening socio-economic disparity which denies dignity, security, and opportunity, undermining Canada’s social contract.
 
-AND WHEREAS Polycrisis is further compounded by the fraying of communal bonds, shared purpose, and civic engagement. All caused by unpredictable societal transformations wrought by unregulated technological advancement which outpaces regulation.
+AND WHEREAS Polycrisis is further compounded by the fraying of communal bonds, shared purpose, and civic engagement. All caused by unpredictable societal transformations wrought by unregulated technological advancement, which outpaces regulation.
 
-AND WHEREAS, to overcome such crises requires intentional rebuilding of social contracts; the cultivation of trust, resilient communities, and a shared national purpose grounded in dignity, care, active citizenship, and democracy.
+AND WHEREAS, to overcome such crises requires intentional rebuilding of social contracts, the cultivation of trust, resilient communities, and a shared national purpose grounded in dignity, care, active citizenship, and democracy.
 
-AND WHEREAS, the well-being of not only current generations, but future generations, is dependent upon renewed commitments to collective action, environmental stewardship, and the rejection of austerity in favour of prosperity.
+AND WHEREAS, the well-being of not only current generations, but also future generations, is dependent upon renewed commitments to collective action, environmental stewardship, and the rejection of austerity in favour of prosperity.
 
-AND WHEREAS, a resilient and equitable future demands a shift from linear hierarchies to interlocking loops of care, feedback, and civic trust, which shall foster participatory and defensive democracy where every citizen can shape their and their country’s future.
+AND WHEREAS, a resilient and equitable future demands a shift from linear hierarchies to interlocking loops of care, feedback, and civic trust, which shall foster participatory and defensive democracy where every citizen can shape their own, and their country’s, future.
 
-AND WHEREAS, the enduring strength of Canada comes not from its natural splendour but from its people. It is their ingenuity, compassion, and collective spirit, that will guide us forward, rebuilding the house of Canada for an uncertain world.
+AND WHEREAS, the enduring strength of Canada comes not from its natural splendour but from its people. It is their ingenuity, compassion, and collective spirit that will guide us forward, rebuilding the house of Canada for an uncertain world.
 
 AND WHEREAS, this Act is not a fanciful wish list, but a work order for a nation.
 
 NOW, THEREFORE, The Crown, The People, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
-
