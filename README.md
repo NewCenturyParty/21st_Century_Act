@@ -86,7 +86,7 @@ This project is now a living document. Its evolution will be guided by the publi
 
 ## AI Disclosure
 
-I feel it is important to state that this Act was written with significant assistance from artificial intelligence. That weakens this entire thing, but it is the truth. I did not have the skill nor knowledge to this myself. I can go over the full process if you are curious, but I will just stay the AI use is extensive. While I believe the ideas within are sound and come from a deeply human place, I humbly and completely understand that for some this is a red line for participation, but for any who choose to read and participate I thank you. The more people who do, the more human this becomes.
+I feel it is important to state that this Act was written with significant assistance from artificial intelligence. That weakens this entire thing, but it is the truth. I did not have the skill nor knowledge to this myself. I can go over the full process if you are curious, but I will just say the AI use is extensive. While I believe the ideas within are sound and come from a deeply human place, I humbly and completely understand that for some this is a red line for participation, but for any who choose to read and participate I thank you. The more people who do, the more human this becomes.
 
 ## License
 
