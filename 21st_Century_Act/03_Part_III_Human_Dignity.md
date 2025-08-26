@@ -76,7 +76,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 ### Section 50: Establishment and Mandate
 
-(1) There is hereby established an Agent of Parliament to be known as the Dignity Directorate, who shall report directly to Parliament.
+(1) There is hereby established an Agent of Parliament to be known as the Dignity Directorate.
 
 (2) The mandate of the Dignity Directorate is to create governmental accountability to Human Dignity, as defined under section 3 of this Act.
 
