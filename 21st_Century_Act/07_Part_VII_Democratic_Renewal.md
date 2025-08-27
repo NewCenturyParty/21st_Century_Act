@@ -298,47 +298,37 @@ Democracy, like our country, is not just something inherited, it is something te
 
 ### Section 200: Commitment to Proportional Representation
 
-(1) Canada hereby proposes Circular Representation, otherwise known as CR, as its federal electoral system, to be implemented according to the timeline specified in this Title. CR is a hybrid democratic voting system combining ranked choice voting for local ridings with ranked choice voting for a proportional top up.
+(1) Canada hereby proposes Circle Representation, otherwise known as CR, as its federal electoral system.
 
-(2) The Government of Canada is committed to developing a detailed implementation plan for CR that ensures public consultation, education, and proposal of any necessary refinements to the model outlined herein.
+(2) The core mechanics of CR are as follows:
 
-(3) CR is to be used for federal elections by at most the fifth year of the coming into force of this Act.
+    (a) Voters shall cast a single ballot containing two distinct votes:
 
-(4) The minister of Democratic Institutions, or another designated Minister, shall, within twelve months of the coming into force of this Act, initiate and oversee comprehensive public consultations and Citizens’ Assemblies to discuss and refine CR as needed to best support Canadian Democracy.
+        (i) A single-mark vote for a local candidate for a single-member local riding; and
 
-(5) The final model for CR shall be ratified through a national referendum, to be held no later than the fourth year of the coming into force of this Act.
+        (ii) A ranked-choice vote from an open list of regional candidates for a multi-member regional riding that also determines  proportionality of seats in Parliament based on the party of the candidates chosen.
 
-(6) The core mechanics of CR are as follows:
+    (b) Parliament shall be composed of combination of local and regional Members of Parliament (MPs), with the total number of seats for the MPs to be determined by Elections Canada, subject to increases or decreases each election cycle due to adjustments for overhang seats as described in subsection (3); and
 
-    (a) Voters shall cast two ranked votes on a paper ballot;
+    (c) The distribution of seats in Parliament shall be approximately 55% local Members of Parliament and 45% regional Members of Parliament. THese regional MPs shall be allocated to parties based on the results of the regional vote to ensure the final seat count is proportionate to each party's share of the popular vote within the region. 
 
-        (i) The first vote shall be the local representative vote, where voters rank candidates contesting election in their local electoral district to elect a local Member of Parliament (MP).
+(3) To ensure proportionality, should a party win more local seats in a region than its share of the regional vote would entitle it to an overhang seat. The total number of seats in Parliament shall be temporarily increased. The number of overhang seats will be added to the seats allocated to all other parties to maintain the proportional results of the election.
 
-        (ii) The second vote shall be the regional vote, where votes rank candidates from an open list of candidates, include the same local candidates available to vote on in the first vote, contesting election in their designated multi-member region to elect regional top-up Members of Parliament.
+(4) The specific boundaries of the multi-member regions shall be determined by an independent and non-partisan process overseen by Elections Canada.
 
-    (b) Parliament shall be formed by:
+(5) The Government of Canada shall develop a detailed implementation plan for CR, to be used in all federal election sno later than the fifth year after this Act comes into force. This plan shall be developed through a process that includes:
 
-        (i) Locally elected Members of Parliament per the local vote, with the total number of local Members of Parliament determined by Elections Canada, but shall not be less than 338.
+    (a) Comprehensive public consultations and Citizen's Assemblies to be initiated within twelve months of this Act coming into force; and
+    
+    (b) A national referendum to ratify the final, detailed model for CR, to be held no later than the fourth year after this Act comes into force. 
 
-        (ii) A variable number of regional top-up MPs, allocated to ensure that the overall distribution of seats in Parliament proportionally reflects national party support, calculated based on regional votes.
+(6) The security and integrity of the CR electoral model shall be ensured by:
 
-    (c) Regional lists shall be open, allowing voters to rank individual candidates rather than only political parties as traditionally seen with Mixed Member Proportional electoral systems. Nomination processes for both local and regional candidates shall be established by regulations, but must be transparent and democratically managed.
+    (a) The exclusive use of paper ballots for casting and hand counting vote, subject to rigorous, independent audits; and
+    
+    (b) The mandatory participation of all eligible citizens in federal elections and referenda, with regulated exceptions for conscientious objection or incapacity, with failure to comply resulting in an Administrative Monetary Penalty of no more than $25.00 CAD. 
 
-(7) The principles of CR shall be supported by, and integrated with, the civic engagement structure infrastructures established in this Act, including:
-
-    (a) Citizens’ deliberation mechanisms found in Aurora, Dignity Hubs, and Libraries Canada libraries;
-
-    (b) Loop-based feedback systems to ensure continuous democratic legitimacy and responsiveness; and
-
-    (c) A societal understanding of democracy as a continuous, participatory governance, moving beyond elections as isolated events.
-
-(8) The security, trust, and accessibility of the CR electoral model shall be ensured in the following ways:
-
-    (a) Federal-elections, under Circle Representation (CR), or otherwise, shall use paper ballots, to be cast and counted by hand, with rigorous audit procedures;
-
-    (b) Digital technology related to elections shall only be employed for educational purposes such as electoral system simulations that compare First Past the Post, Circle Representation, and other electoral systems around the world. Such digital technology shall not be used for casting, tabulation of votes, or any other critical electoral process, ensuring the integrity of Canadian federal election; and
-
-    (c) Voting shall hereby be mandatory in all federal elections and national referenda for all citizens of voting age, with exceptions for conscientious objection or incapacity, as defined in regulation.
+(7) The principles of CR shall be supported by the broader civic engagement infrastructure established in this Act, including public deliberation on platforms such as Aurora, to foster a societal understanding of democracy as a continuous, participatory, circular event.
 
 ### Section 201: Youth Enfranchisement
 
