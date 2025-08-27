@@ -164,7 +164,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 ### Section 57: Requirements for Dignity Impact Assessments
 
-(1) Subject to subsection (2), every proposed federal bill, regulation, and major policy initiative shall be accompanied by a comprehensive Dignity Impact Assessment, otherwise known as a DIA.
+(1) Subject to subsection (2), every proposed federal bill, regulation, and major policy initiative shall be accompanied by a comprehensive Dignity Impact Assessment, otherwise known as a DIA, that must be submitted to the Dignity Directorate.
 
 (2) The Governor in Council may, by regulation, prescribe classes of proposed federal bills, regulations, or major policy initiatives that are exempt from the requirements for a DIA, provided that such exceptions are justified by exceptional circumstances and does not undermine the principles of this Act.
 
@@ -225,8 +225,6 @@ Human dignity is the bedrock of all that we must strive towards.
     (b) Developed in consultation with the Dignity Directorate, the Foundation Commission, the National Council for Reconciliation, and other relevant stakeholders such as vulnerable groups as detailed under section 58 subsection (1)(i).
 
 (4) The Dignity Directorate shall provide its findings and recommendations to the relevant Minister and to the parliamentary committee responsible for the proposed measure.
-
-(5) No new federal budget line or legislation may proceed to final parliamentary vote without a DIA clearance from the Dignity Directorate.
 
 ### Section 60: Establishment of the Dignity Evaluation Framework
 
