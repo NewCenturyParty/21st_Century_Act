@@ -134,7 +134,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (2) The Dignity Commissioner shall be appointed for a single, non-renewable, seven-year term, by an all-party, non-partisan, process, detailed in regulations, to ensure the absolute non-partisanship of the Commissioner. The Dignity Commissioner must be considered above day-to-day politics.
 
-(3) The Dignity Council shall be composed of seven members with demonstrated knowledge and credentials in human rights laws, social policy, ethics, and Indigenous rights.
+(3) The Dignity Council shall be composed of seven members, chosen by the Governor in Council, with demonstrated knowledge and credentials in human rights laws, social policy, ethics, and Indigenous rights.
 
 (4) The Dignity Commissioner must consult with the Dignity Council on all matters related to their mandate. The advice of the Dignity Council and the Dignity Commissioner’s response, must be published and made accessible to the public through platforms such as canada.ca, git.canada.ca, and Aurora.
 
