@@ -138,9 +138,9 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (4) The Dignity Commissioner must consult with the Dignity Council on all matters related to their mandate. The advice of the Dignity Council and the Dignity Commissioner’s response, must be published and made accessible to the public through platforms such as canada.ca, git.canada.ca, and Aurora.
 
-(5) In times where the Dignity Commissioner goes against the advice of the Dignity Council, the published response must include the reasons why, a Dignity Impact Assessment of their unadvised action(s), all of which must be tabled in Parliament for review.
+(5) In times where the Dignity Commissioner goes against the advice of the Dignity Council, the published response must include the reasons why and a Dignity Impact Assessment of their unadvised action(s), which must be tabled in Parliament for review.
 
-(6) Parliament may remove a Dignity Commissioner with a two-thirds majority vote.
+(6) Parliament may remove a Dignity Commissioner for cause with a two-thirds majority vote in the House of Commons.
 
 ### Section 54: Accountability
 
