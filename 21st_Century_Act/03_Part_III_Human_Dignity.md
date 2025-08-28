@@ -132,7 +132,7 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (1) The Dignity Directorate shall be governed by a Dignity Commissioner and a supporting Dignity Council.
 
-(2) The Dignity Commissioner shall be appointed for a single, non-renewable, seven-year term, by an all-party, non-partisan, process, detailed in regulations, to ensure the absolute non-partisanship of the Commissioner. The Dignity Commissioner must be considered above day-to-day politics as they are the final say on Dignity Impact Assessments.
+(2) The Dignity Commissioner shall be appointed for a single, non-renewable, seven-year term, by an all-party, non-partisan, process, detailed in regulations, to ensure the absolute non-partisanship of the Commissioner. The Dignity Commissioner must be considered above day-to-day politics.
 
 (3) The Dignity Council shall be composed of seven members with demonstrated knowledge and credentials in human rights laws, social policy, ethics, and Indigenous rights.
 
