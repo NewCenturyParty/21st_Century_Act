@@ -360,15 +360,15 @@ Human dignity is the bedrock of all that we must strive towards.
 
 (1) Dignity Hubs shall serve as key interfaces for the delivery and feedback loops of other initiatives under this Act including, but not limited to, the following:
 
-(2) The Dignity Dividend by providing information and support for recipients;
+    (a) The Dignity Dividend by providing information and support for recipients;
 
-(2) The @canadapost.ca email sign-up process, including Digital Social Insurance Number issuance as detailed under Part XI of this Act, as well as other Canada Post services;
+    (b) The @canadapost.ca email sign-up process, including Digital Social Insurance Number issuance as detailed under Part XI of this Act, as well as other Canada Post services;
 
-(3) Displaying dashboards from canada.ca to provide real-time information on local services and community needs; and
+    (c) Displaying dashboards from canada.ca to provide real-time information on local services and community needs; and
 
-(4) Aurora Circles, as defined under section 3 of this Act, for each Dignity Hub facilitating community engagement and policy feedback.
+    (d) Aurora Circles, as defined under section 3 of this Act, for each Dignity Hub facilitating community engagement and policy feedback.
 
-(5) The Dignity Directorate shall regularly review and adapt the services and operations of Dignity Hubs based on community needs, feedback loops from citizens and staff, and comments collected, with consent, through Aurora.
+(2) The Dignity Directorate shall regularly review and adapt the services and operations of Dignity Hubs based on community needs, feedback loops from citizens and staff, and comments collected, with consent, through Aurora.
 
 ## Title VI: Dignity in Public Safety - Policing Reform
 
