@@ -124,23 +124,27 @@ Pay your fair share, share in fair pay.
 
 ### Section 263: Negative Income Tax Model
 
-(1) Effective for the fiscal year commencing two years after the coming into the force of this Act, a new progressive income tax model is hereby established. The marginal annual income tax rates are as follows:
+(1) Effective for the fiscal year commencing two years after the coming into the force of this Act, a new progressive and negative income tax model is hereby established. The marginal annual income tax rates and brackets are as follows:
 
-    (a) Any income of $0.00 CAD to $100,000.00 CAD, a Marginal Tax Rate of 0%:
+    (a) Any income of $0.00 CAD to $100,000.99 CAD, a Negative Income Tax as established under Part III, Title IV of this Act, which in summary:
 
-        (i) If annual income does not pass $100,000 CAD, then the taxpayer is eligible for the Dignity Dividend as detailed under Part III, Title IV.
+        (i) Provides a base income guarantee, a Dignity Dividend, of $25,000.00 CAD
 
-    (b) Any income of $100,001.00 CAD to $150,000.00 CAD, a Marginal Tax Rate of 10%;
+        (ii) The Dignity Dividend is reduced at a rate of 25% for every dollar of income earned within this tax bracket.
 
-    (c) Any income of $150,001.00 CAD to $250,000.00 CAD, a Marginal Tax Rate of 20%;
+        (iii) The Dignity Dividend is smoothly phased-out, with the benefit reaching $0.00 at the $100,000.99 CAD income threshold
 
-    (d) Any income of $250,001.00 CAD to $500,000.00 CAD, a Marginal Tax Rate of 30%;
+    (b) Any income of $100,001.00 CAD to $150,000.99 CAD, a Positive Marginal Tax Rate of 10%;
 
-    (e) Any income of $500,001.00 CAD to $1,000,000.00 CAD; a Marginal Tax Rate of 40%;
+    (c) Any income of $150,001.00 CAD to $250,000.99 CAD, a Positive Marginal Tax Rate of 20%;
 
-    (f) Any income of $1,000,001.00 CAD to $1,500,000.00 CAD; a Marginal Tax Rate of 50%; and
+    (d) Any income of $250,001.00 CAD to $500,000.99 CAD, a Positive Marginal Tax Rate of 30%;
 
-    (g) Any income of $1,500,001.00 CAD and above, a Marginal Tax Rate of 60%.
+    (e) Any income of $500,001.00 CAD to $1,000,000.99 CAD; a Positive Marginal Tax Rate of 40%;
+
+    (f) Any income of $1,000,001.00 CAD to $1,500,000.99 CAD; a Positive Marginal Tax Rate of 50%; and
+
+    (g) Any income of $1,500,001.00 CAD and above, a Positive Marginal Tax Rate of 60%.
 
 (8) This new progressive income tax model shall ensure that the highest earners contribute a proportionate share of the public wealth they benefit from, while middle to lower income Canadians benefit from 0% taxes and net gains from the Dignity Dividend, as detailed under Part III of this Act.
 
