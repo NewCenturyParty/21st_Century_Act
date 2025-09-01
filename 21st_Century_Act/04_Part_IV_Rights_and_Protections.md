@@ -636,7 +636,7 @@ How we fulfill the principles of Dignity in daily Canadian life.
 
 (4) The NDDVA shall report to Parliament through the Minister of Health, who shall regularly be informed of the NDDVA’s progress and status by the Director General of the NDDVA.
 
-(5) The mandate of the NDDVA is to manage and deliver Canada’s universal pharmacare, vision care and dental care systems, ensuring safe, deeply affordable, and accessible medications, vision, and dental services are available, without profit gatekeeping, thereby treating prescriptions, glasses and other vision care, and any dental work as foundational to a person’s dignity.
+(5) The mandate of the NDDVA is to manage and deliver Canada’s single-payer universal pharmacare, vision care and dental care systems, ensuring safe, accessible, medications, vision, and dental services are available to all, thereby ensuring prescriptions, glasses and other vision care, and any dental work as foundational to a person’s dignity.
 
 ### Section 111: Powers and Functions
 
