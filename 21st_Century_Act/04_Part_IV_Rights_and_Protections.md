@@ -586,7 +586,7 @@ How we fulfill the principles of Dignity in daily Canadian life.
 
 (2) The NHSOA shall collaborate directly with such agencies as, but not limited to, the following:
 
-    (a) The National Drug and Dental Agency for outcome correlation;
+    (a) The National Drug, Dental, and Vision Agency for outcome correlation;
 
     (b) The Office for the Future for intergenerational viability metrics; and
 
