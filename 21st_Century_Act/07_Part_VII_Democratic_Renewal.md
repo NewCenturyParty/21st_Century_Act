@@ -154,7 +154,7 @@ Democracy, like our country, is not just something inherited, it is something te
 
         (iii) Civic Participation;
 
-        (iv) Public Engagement on social media Platforms.
+        (iv) Public Engagement on Social Media Platforms.
 
         (v) AI or Other Machine Engagement on Social Media Platforms.
 
