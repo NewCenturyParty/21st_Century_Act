@@ -98,7 +98,7 @@ Democracy, like our country, is not just something inherited, it is something te
 
 (4) The Chairperson of the Foundation Commission shall appear before the committees of the Senate and the House of Commons, as required, to answer questions regarding the reports, administration, and expenditures of the Foundation Commission.
 
-(5) The Foundation Commission shall conduct a review and complete a report of the Act and its implementation, the successes and failures, and what was learned, which shall be submitted to the Speaker of the House of Commons to table it before Parliament at the earliest opportunity, whether the chambers are sitting or not.
+(5) The Foundation Commission shall conduct an annual review and complete an annual report of the Act and its implementation, the successes and failures, and what was learned, which shall be submitted annually to the Speaker of the House of Commons to table it before Parliament at the earliest opportunity, whether the chambers are sitting or not.
 
 ### Section 180: Finances
 
